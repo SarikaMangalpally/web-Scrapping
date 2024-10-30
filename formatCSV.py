@@ -1,6 +1,7 @@
 import json
 import format_categories
 import pandas as pd
+from generateCSVFile import generateCSV
 
 with open('state_abbrevations.json', 'r') as file:
     data = json.load(file)
@@ -10,7 +11,7 @@ with open('categories_listing.json', 'r') as file:
     data = json.load(file)
     categories = data
 
-def generateCSV(business_info, title_to_save):
+def formatCSV(business_info, title_to_save):
     # Create a dictionary to store the data
     data = []
     for info in business_info:
@@ -18,7 +19,7 @@ def generateCSV(business_info, title_to_save):
 
         formated_info = {
             "Listing Title": info["business_title"],
-            "Listing SEO Title": info["business_title"] + info["city"],
+            "Listing SEO Title": info["business_title"].join(info["city"]),
             "Listing Email": "",
             "Listing URL": info["business_website"],
             "Listing Address": info["address"],
@@ -71,8 +72,9 @@ def generateCSV(business_info, title_to_save):
     if data:
         try:
             df = pd.DataFrame(data)
-            df.to_csv(title_to_save, index=False)
-            return 'Success: CSV file generated.'
+            result = generateCSV(df)
+            # df.to_csv(title_to_save, index=False)
+            return result
         except Exception as e:
             return f'Error: CSV file generation failed. {e}'
     else:

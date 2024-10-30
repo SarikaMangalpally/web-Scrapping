@@ -4,7 +4,7 @@ import pandas as pd
 import time
 from datetime import datetime as dt
 from searchWebsite import find_official_website
-from generateCSV import generateCSV
+from formatCSV import formatCSV
 
 
 with open('categories_listing.json', 'r') as file:
@@ -124,7 +124,7 @@ def get_business_data(search_info):
             break   
     try:
         file_title_to_save = f"{params['term']}-{'-'.join([location_string.strip() for location_string in params['location'].split(',')])}{'-'if len(category_titles) else ''}{'-'.join(category_titles) if len(category_titles)>1 else category_titles[0]}.csv"
-        result = generateCSV(total_businesses_data, file_title_to_save)
+        result = formatCSV(total_businesses_data, file_title_to_save)
         return result
 
     except Exception as e:
