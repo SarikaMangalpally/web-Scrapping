@@ -1,0 +1,7882 @@
+[
+    {
+        "title": "3D Printing",
+        "alias": "3dprinting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Abruzzese",
+        "alias": "abruzzese",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Absinthe Bars",
+        "alias": "absinthebars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Acai Bowls",
+        "alias": "acaibowls",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Accessories",
+        "alias": "accessories",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Accountants",
+        "alias": "accountants",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Acne Treatment",
+        "alias": "acnetreatment",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Active Life",
+        "alias": "active",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Acupuncture",
+        "alias": "acupuncture",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Addiction Medicine",
+        "alias": "addictionmedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Adoption Services",
+        "alias": "adoptionservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Adult Shops",
+        "alias": "adult",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Adult Education",
+        "alias": "adultedu",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Adult Entertainment",
+        "alias": "adultentertainment",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Advertising",
+        "alias": "advertising",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Aerial Fitness",
+        "alias": "aerialfitness",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Aerial Tours",
+        "alias": "aerialtours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Aestheticians",
+        "alias": "aestheticians",
+        "parent_aliases": "medicalspa"
+    },
+    {
+        "title": "Afghan",
+        "alias": "afghani",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "African",
+        "alias": "african",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Afro-Brazilian",
+        "alias": "afrobrazilian",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Agriturismi",
+        "alias": "agriturismi",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Aircraft Dealers",
+        "alias": "aircraftdealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Aircraft Repairs",
+        "alias": "aircraftrepairs",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Air Duct Cleaning",
+        "alias": "airductcleaning",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Airlines",
+        "alias": "airlines",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Airport Shuttles",
+        "alias": "airport_shuttles",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Airport Lounges",
+        "alias": "airportlounges",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Airports",
+        "alias": "airports",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Airport Terminals",
+        "alias": "airportterminals",
+        "parent_aliases": "airports"
+    },
+    {
+        "title": "Airsoft",
+        "alias": "airsoft",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Alentejo",
+        "alias": "alentejo",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Algarve",
+        "alias": "algarve",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Allergists",
+        "alias": "allergist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Alsatian",
+        "alias": "alsatian",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Alternative Medicine",
+        "alias": "alternativemedicine",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Altoatesine",
+        "alias": "altoatesine",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Amateur Sports Teams",
+        "alias": "amateursportsteams",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Amusement Parks",
+        "alias": "amusementparks",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Andalusian",
+        "alias": "andalusian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Anesthesiologists",
+        "alias": "anesthesiologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Animal Assisted Therapy",
+        "alias": "animalassistedtherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Holistic Animal Care",
+        "alias": "animalholistic",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Animal Physical Therapy",
+        "alias": "animalphysicaltherapy",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Animal Shelters",
+        "alias": "animalshelters",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Antiques",
+        "alias": "antiques",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Apartment Agents",
+        "alias": "apartmentagents",
+        "parent_aliases": "realestateagents"
+    },
+    {
+        "title": "Apartments",
+        "alias": "apartments",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Appliances",
+        "alias": "appliances",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Appraisal Services",
+        "alias": "appraisalservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Apulian",
+        "alias": "apulian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Aquariums",
+        "alias": "aquariums",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Aquarium Services",
+        "alias": "aquariumservices",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Arabic",
+        "alias": "arabian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Arab Pizza",
+        "alias": "arabpizza",
+        "parent_aliases": "arabian"
+    },
+    {
+        "title": "Arcades",
+        "alias": "arcades",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Archery",
+        "alias": "archery",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Architects",
+        "alias": "architects",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Architectural Tours",
+        "alias": "architecturaltours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Argentine",
+        "alias": "argentine",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Armenian",
+        "alias": "armenian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Arroceria / Paella",
+        "alias": "arroceria_paella",
+        "parent_aliases": "spanish"
+    },
+    {
+        "title": "Art Classes",
+        "alias": "artclasses",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Art Consultants",
+        "alias": "artconsultants",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Artificial Turf",
+        "alias": "artificialturf",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Art Installation",
+        "alias": "artinstallation",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Art Museums",
+        "alias": "artmuseums",
+        "parent_aliases": "museums"
+    },
+    {
+        "title": "Art Restoration",
+        "alias": "artrestoration",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Arts & Entertainment",
+        "alias": "arts",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Arts & Crafts",
+        "alias": "artsandcrafts",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Art Schools",
+        "alias": "artschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Art Space Rentals",
+        "alias": "artspacerentals",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Art Supplies",
+        "alias": "artsupplies",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Art Tours",
+        "alias": "arttours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Asian Fusion",
+        "alias": "asianfusion",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Assisted Living Facilities",
+        "alias": "assistedliving",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Astrologers",
+        "alias": "astrologers",
+        "parent_aliases": "psychic_astrology"
+    },
+    {
+        "title": "Asturian",
+        "alias": "asturian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Ateliers",
+        "alias": "ateliers",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Attraction Farms",
+        "alias": "attractionfarms",
+        "parent_aliases": "farms"
+    },
+    {
+        "title": "ATV Rentals/Tours",
+        "alias": "atvrentals",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Auction Houses",
+        "alias": "auctionhouses",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Audiologist",
+        "alias": "audiologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Audio/Visual Equipment Rental",
+        "alias": "audiovisualequipmentrental",
+        "parent_aliases": "partyequipmentrentals"
+    },
+    {
+        "title": "Australian",
+        "alias": "australian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Austrian",
+        "alias": "austrian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Authorized Postal Representative",
+        "alias": "authorized_postal_representative",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Automotive",
+        "alias": "auto",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Auto Detailing",
+        "alias": "auto_detailing",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Customization",
+        "alias": "autocustomization",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Inspectors",
+        "alias": "autodamageassessment",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Electric Services",
+        "alias": "autoelectric",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Glass Services",
+        "alias": "autoglass",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Insurance",
+        "alias": "autoinsurance",
+        "parent_aliases": "insurance"
+    },
+    {
+        "title": "Auto Loan Providers",
+        "alias": "autoloanproviders",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Parts & Supplies",
+        "alias": "autopartssupplies",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Repair",
+        "alias": "autorepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Security",
+        "alias": "autosecurity",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auto Upholstery",
+        "alias": "autoupholstery",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Auvergnat",
+        "alias": "auvergnat",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Aviation Services",
+        "alias": "aviationservices",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Awnings",
+        "alias": "awnings",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Axe Throwing",
+        "alias": "axethrowing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Ayurveda",
+        "alias": "ayurveda",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Azores",
+        "alias": "azores",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Baby Gear & Furniture",
+        "alias": "baby_gear",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Backflow Services",
+        "alias": "backflowservices",
+        "parent_aliases": "plumbing"
+    },
+    {
+        "title": "Backshop",
+        "alias": "backshop",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Baden",
+        "alias": "baden",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Badminton",
+        "alias": "badminton",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bagels",
+        "alias": "bagels",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Baguettes",
+        "alias": "baguettes",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bail Bondsmen",
+        "alias": "bailbondsmen",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Bakeries",
+        "alias": "bakeries",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Balloon Services",
+        "alias": "balloonservices",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Bangladeshi",
+        "alias": "bangladeshi",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bankruptcy Law",
+        "alias": "bankruptcy",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Banks & Credit Unions",
+        "alias": "banks",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Barbers",
+        "alias": "barbers",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Bar Crawl",
+        "alias": "barcrawl",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Barre Classes",
+        "alias": "barreclasses",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Bars",
+        "alias": "bars",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Bartenders",
+        "alias": "bartenders",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Bartending Schools",
+        "alias": "bartendingschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Baseball Fields",
+        "alias": "baseballfields",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Basketball Courts",
+        "alias": "basketballcourts",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Basque",
+        "alias": "basque",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bathing Area",
+        "alias": "bathing_area",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Battery Stores",
+        "alias": "batterystores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Batting Cages",
+        "alias": "battingcages",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bavarian",
+        "alias": "bavarian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Barbeque",
+        "alias": "bbq",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Beach Bars",
+        "alias": "beachbars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Beach Equipment Rentals",
+        "alias": "beachequipmentrental",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Beaches",
+        "alias": "beaches",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Beach Volleyball",
+        "alias": "beachvolleyball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Beauty & Spas",
+        "alias": "beautysvc",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Bed & Breakfast",
+        "alias": "bedbreakfast",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Beer, Wine & Spirits",
+        "alias": "beer_and_wine",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Beer Bar",
+        "alias": "beerbar",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Beer Garden",
+        "alias": "beergarden",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Beer Gardens",
+        "alias": "beergardens",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Beer Hall",
+        "alias": "beerhall",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Beer Tours",
+        "alias": "beertours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Behavior Analysts",
+        "alias": "behavioranalysts",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Beira",
+        "alias": "beira",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Beisl",
+        "alias": "beisl",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Belgian",
+        "alias": "belgian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bento",
+        "alias": "bento",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Berrichon",
+        "alias": "berrichon",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Bespoke Clothing",
+        "alias": "bespoke",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Betting Centers",
+        "alias": "bettingcenters",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Beverage Store",
+        "alias": "beverage_stores",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Bicycle Paths",
+        "alias": "bicyclepaths",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bicycles",
+        "alias": "bicycles",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Bike Repair/Maintenance",
+        "alias": "bike_repair_maintenance",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Bike Associations",
+        "alias": "bikeassociations",
+        "parent_aliases": "bicycles"
+    },
+    {
+        "title": "Bike Parking",
+        "alias": "bikeparking",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bike Rentals",
+        "alias": "bikerentals",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bike Repair",
+        "alias": "bikerepair",
+        "parent_aliases": "bicycles"
+    },
+    {
+        "title": "Bikes",
+        "alias": "bikes",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Bike Sharing",
+        "alias": "bikesharing",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Bike Shop",
+        "alias": "bikeshop",
+        "parent_aliases": "bicycles"
+    },
+    {
+        "title": "Bike tours",
+        "alias": "biketours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Billing Services",
+        "alias": "billingservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Bingo Halls",
+        "alias": "bingo",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Biohazard Cleanup",
+        "alias": "biohazardcleanup",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Bird Shops",
+        "alias": "birdshops",
+        "parent_aliases": "petstore"
+    },
+    {
+        "title": "Bistros",
+        "alias": "bistros",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Black Sea",
+        "alias": "blacksea",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Shades & Blinds",
+        "alias": "blinds",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Blood & Plasma Donation Centers",
+        "alias": "blooddonation",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Blowfish",
+        "alias": "blowfish",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Blow Dry/Out Services",
+        "alias": "blowoutservices",
+        "parent_aliases": "hair"
+    },
+    {
+        "title": "Boat Charters",
+        "alias": "boatcharters",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Boat Dealers",
+        "alias": "boatdealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Boating",
+        "alias": "boating",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Boat Parts & Supplies",
+        "alias": "boatpartsandsupplies",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Boat Repair",
+        "alias": "boatrepair",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Boat Tours",
+        "alias": "boattours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Bobsledding",
+        "alias": "bobsledding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bocce Ball",
+        "alias": "bocceball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Body Contouring",
+        "alias": "bodycontouring",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Body Shops",
+        "alias": "bodyshops",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Bookbinding",
+        "alias": "bookbinding",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Bookkeepers",
+        "alias": "bookkeepers",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Bookstores",
+        "alias": "bookstores",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Boot Camps",
+        "alias": "bootcamps",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Boudoir Photography",
+        "alias": "boudoirphotography",
+        "parent_aliases": "photographers"
+    },
+    {
+        "title": "Bounce House Rentals",
+        "alias": "bouncehouserentals",
+        "parent_aliases": "partyequipmentrentals"
+    },
+    {
+        "title": "Bourguignon",
+        "alias": "bourguignon",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Bowling",
+        "alias": "bowling",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Boxing",
+        "alias": "boxing",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Brasseries",
+        "alias": "brasseries",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Brazilian",
+        "alias": "brazilian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Brazilian Empanadas",
+        "alias": "brazilianempanadas",
+        "parent_aliases": "brazilian"
+    },
+    {
+        "title": "Brazilian Jiu-jitsu",
+        "alias": "brazilianjiujitsu",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Breakfast & Brunch",
+        "alias": "breakfast_brunch",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Breweries",
+        "alias": "breweries",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Brewing Supplies",
+        "alias": "brewingsupplies",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Brewpubs",
+        "alias": "brewpubs",
+        "parent_aliases": "breweries"
+    },
+    {
+        "title": "Bridal",
+        "alias": "bridal",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "British",
+        "alias": "british",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bubble Soccer",
+        "alias": "bubblesoccer",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Bubble Tea",
+        "alias": "bubbletea",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Buddhist Temples",
+        "alias": "buddhist_temples",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Buffets",
+        "alias": "buffets",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Building Supplies",
+        "alias": "buildingsupplies",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Bulgarian",
+        "alias": "bulgarian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Bulk Billing",
+        "alias": "bulkbilling",
+        "parent_aliases": "medcenters"
+    },
+    {
+        "title": "Bungee Jumping",
+        "alias": "bungeejumping",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Burgers",
+        "alias": "burgers",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Burmese",
+        "alias": "burmese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Buses",
+        "alias": "buses",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Business Consulting",
+        "alias": "businessconsulting",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Business Financing",
+        "alias": "businessfinancing",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Business Law",
+        "alias": "businesslawyers",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Bus Rental",
+        "alias": "busrental",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Bus Stations",
+        "alias": "busstations",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Bus Tours",
+        "alias": "bustours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Butcher",
+        "alias": "butcher",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Counseling & Mental Health",
+        "alias": "c_and_mh",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Cabaret",
+        "alias": "cabaret",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Cabinetry",
+        "alias": "cabinetry",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Cable Cars",
+        "alias": "cablecars",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Cafes",
+        "alias": "cafes",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cafeteria",
+        "alias": "cafeteria",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cajun/Creole",
+        "alias": "cajun",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Patisserie/Cake Shop",
+        "alias": "cakeshop",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Calabrian",
+        "alias": "calabrian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Calligraphy",
+        "alias": "calligraphy",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Cambodian",
+        "alias": "cambodian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Campgrounds",
+        "alias": "campgrounds",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Candle Stores",
+        "alias": "candlestores",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Candy Stores",
+        "alias": "candy",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Cannabis Clinics",
+        "alias": "cannabis_clinics",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Cannabis Collective",
+        "alias": "cannabiscollective",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Cannabis Dispensaries",
+        "alias": "cannabisdispensaries",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Medical Cannabis Referrals",
+        "alias": "cannabisreferrals",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Cannabis Tours",
+        "alias": "cannabistours",
+        "parent_aliases": "cannabis_clinics"
+    },
+    {
+        "title": "Canteen",
+        "alias": "canteen",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cantonese",
+        "alias": "cantonese",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Canyoneering",
+        "alias": "canyoneering",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Car Dealers",
+        "alias": "car_dealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Auctions",
+        "alias": "carauctions",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Brokers",
+        "alias": "carbrokers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Buyers",
+        "alias": "carbuyers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Cardio Classes",
+        "alias": "cardioclasses",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Cardiologists",
+        "alias": "cardiology",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Career Counseling",
+        "alias": "careercounseling",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Caribbean",
+        "alias": "caribbean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Caricatures",
+        "alias": "caricatures",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Carousels",
+        "alias": "carousels",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Carpenters",
+        "alias": "carpenters",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Carpet Cleaning",
+        "alias": "carpet_cleaning",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Carpet Dyeing",
+        "alias": "carpetdyeing",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Carpeting",
+        "alias": "carpeting",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Carpet Installation",
+        "alias": "carpetinstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Car Rental",
+        "alias": "carrental",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Car Share Services",
+        "alias": "carshares",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Wash",
+        "alias": "carwash",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Car Window Tinting",
+        "alias": "carwindowtinting",
+        "parent_aliases": "autoglass"
+    },
+    {
+        "title": "Casinos",
+        "alias": "casinos",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Castles",
+        "alias": "castles",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Catalan",
+        "alias": "catalan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Caterers",
+        "alias": "catering",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Mobile Phone Accessories",
+        "alias": "cellphoneaccessories",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Central Brazilian",
+        "alias": "centralbrazilian",
+        "parent_aliases": "brazilian"
+    },
+    {
+        "title": "Ceremonial Clothing",
+        "alias": "ceremonialclothing",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Challenge Courses",
+        "alias": "challengecourses",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Champagne Bars",
+        "alias": "champagne_bars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Chech",
+        "alias": "chech",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Chee Kufta",
+        "alias": "cheekufta",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Cheerleading",
+        "alias": "cheerleading",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Cheese Shops",
+        "alias": "cheese",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Cheesesteaks",
+        "alias": "cheesesteaks",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cheese Tasting Classes",
+        "alias": "cheesetastingclasses",
+        "parent_aliases": "tastingclasses"
+    },
+    {
+        "title": "Chicken Wings",
+        "alias": "chicken_wings",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Chicken Shop",
+        "alias": "chickenshop",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Childbirth Education",
+        "alias": "childbirthedu",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Child Care & Day Care",
+        "alias": "childcare",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Children's Clothing",
+        "alias": "childcloth",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Childproofing",
+        "alias": "childproofing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Children's Museums",
+        "alias": "childrensmuseums",
+        "parent_aliases": "museums"
+    },
+    {
+        "title": "Chilean",
+        "alias": "chilean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Chimney Cakes",
+        "alias": "chimneycakes",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Chimney Sweeps",
+        "alias": "chimneysweeps",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Chinese",
+        "alias": "chinese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Chinese Bazaar",
+        "alias": "chinesebazaar",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Chinese Martial Arts",
+        "alias": "chinesemartialarts",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Chiropractors",
+        "alias": "chiropractors",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Chocolatiers & Shops",
+        "alias": "chocolate",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Choirs",
+        "alias": "choirs",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Christmas Trees",
+        "alias": "christmastrees",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Churches",
+        "alias": "churches",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Churros",
+        "alias": "churros",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Cideries",
+        "alias": "cideries",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Cigar Bars",
+        "alias": "cigarbars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Circuit Training Gyms",
+        "alias": "circuittraininggyms",
+        "parent_aliases": "gyms"
+    },
+    {
+        "title": "Circus Schools",
+        "alias": "circusschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Civic Center",
+        "alias": "civiccenter",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Climbing",
+        "alias": "climbing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Clock Repair",
+        "alias": "clockrepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Clothing Rental",
+        "alias": "clothingrental",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Clowns",
+        "alias": "clowns",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Club Crawl",
+        "alias": "clubcrawl",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Cocktail Bars",
+        "alias": "cocktailbars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Coffee & Tea",
+        "alias": "coffee",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Coffee Roasteries",
+        "alias": "coffeeroasteries",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Coffeeshops",
+        "alias": "coffeeshops",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Coffee & Tea Supplies",
+        "alias": "coffeeteasupplies",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "College Counseling",
+        "alias": "collegecounseling",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Colleges & Universities",
+        "alias": "collegeuniv",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Colombian",
+        "alias": "colombian",
+        "parent_aliases": "latin"
+    },
+    {
+        "title": "Colonics",
+        "alias": "colonics",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Comedy Clubs",
+        "alias": "comedyclubs",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Comfort Food",
+        "alias": "comfortfood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Comic Books",
+        "alias": "comicbooks",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Commercial Real Estate",
+        "alias": "commercialrealestate",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Commissioned Artists",
+        "alias": "commissionedartists",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Community Book Box",
+        "alias": "communitybookbox",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Community Centers",
+        "alias": "communitycenters",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Community Gardens",
+        "alias": "communitygardens",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Computers",
+        "alias": "computers",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Concept Shops",
+        "alias": "concept_shops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Concierge Medicine",
+        "alias": "conciergemedicine",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Condominiums",
+        "alias": "condominiums",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Congee",
+        "alias": "congee",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Consumer Law",
+        "alias": "consumerlaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Contract Law",
+        "alias": "contractlaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "General Contractors",
+        "alias": "contractors",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Convenience Stores",
+        "alias": "convenience",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Conveyor Belt Sushi",
+        "alias": "conveyorsushi",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Cooking Classes",
+        "alias": "cookingclasses",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Cooking Schools",
+        "alias": "cookingschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Printing Services",
+        "alias": "copyshops",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Corsican",
+        "alias": "corsican",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cosmetic Dentists",
+        "alias": "cosmeticdentists",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Cosmetics & Beauty Supply",
+        "alias": "cosmetics",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Cosmetic Surgeons",
+        "alias": "cosmeticsurgeons",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Cosmetology Schools",
+        "alias": "cosmetology_schools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Costumes",
+        "alias": "costumes",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Countertop Installation",
+        "alias": "countertopinstall",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Country Clubs",
+        "alias": "countryclubs",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Country Dance Halls",
+        "alias": "countrydancehalls",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Couriers & Delivery Services",
+        "alias": "couriers",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Courthouses",
+        "alias": "courthouses",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Court Reporters",
+        "alias": "courtreporters",
+        "parent_aliases": "legalservices"
+    },
+    {
+        "title": "CPR Classes",
+        "alias": "cprclasses",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Crane Services",
+        "alias": "craneservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Cremation Services",
+        "alias": "cremationservices",
+        "parent_aliases": "funeralservices"
+    },
+    {
+        "title": "Creperies",
+        "alias": "creperies",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Criminal Defense Law",
+        "alias": "criminaldefense",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Crisis Pregnancy Centers",
+        "alias": "crisispregnancycenters",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Cryotherapy",
+        "alias": "cryotherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "CSA",
+        "alias": "csa",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Cuban",
+        "alias": "cuban",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Cucina campana",
+        "alias": "cucinacampana",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Cultural Center",
+        "alias": "culturalcenter",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Cupcakes",
+        "alias": "cupcakes",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Currency Exchange",
+        "alias": "currencyexchange",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Curry Sausage",
+        "alias": "currysausage",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Custom Cakes",
+        "alias": "customcakes",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Customized Merchandise",
+        "alias": "custommerchandise",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Customs Brokers",
+        "alias": "customsbrokers",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Cycling Classes",
+        "alias": "cyclingclasses",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Cypriot",
+        "alias": "cypriot",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Czech",
+        "alias": "czech",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Czech/Slovakian",
+        "alias": "czechslovakian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Dagashi",
+        "alias": "dagashi",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Damage Restoration",
+        "alias": "damagerestoration",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Dance Schools",
+        "alias": "dance_schools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Dance Clubs",
+        "alias": "danceclubs",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Dance Restaurants",
+        "alias": "dancerestaurants",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Dance Studios",
+        "alias": "dancestudio",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Dance Wear",
+        "alias": "dancewear",
+        "parent_aliases": "sportswear"
+    },
+    {
+        "title": "Danish",
+        "alias": "danish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Dart Arenas",
+        "alias": "dartarenas",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Data Recovery",
+        "alias": "datarecovery",
+        "parent_aliases": "itservices"
+    },
+    {
+        "title": "Day Camps",
+        "alias": "daycamps",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Debt Relief Services",
+        "alias": "debtrelief",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Decks & Railing",
+        "alias": "decksrailing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Delicatessen",
+        "alias": "delicatessen",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Delis",
+        "alias": "delis",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Demolition Services",
+        "alias": "demolitionservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Storefront Clinics",
+        "alias": "dentalhygeiniststorefront",
+        "parent_aliases": "dentalhygienists"
+    },
+    {
+        "title": "Dental Hygienists",
+        "alias": "dentalhygienists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Mobile Clinics",
+        "alias": "dentalhygienistsmobile",
+        "parent_aliases": "dentalhygienists"
+    },
+    {
+        "title": "Dentists",
+        "alias": "dentists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Departments of Motor Vehicles",
+        "alias": "departmentsofmotorvehicles",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Department Stores",
+        "alias": "deptstores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Dermatologists",
+        "alias": "dermatology",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Desserts",
+        "alias": "desserts",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Diagnostic Imaging",
+        "alias": "diagnosticimaging",
+        "parent_aliases": "diagnosticservices"
+    },
+    {
+        "title": "Diagnostic Services",
+        "alias": "diagnosticservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Dialysis Clinics",
+        "alias": "dialysisclinics",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Diamond Buyers",
+        "alias": "diamondbuyers",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Dietitians",
+        "alias": "dietitians",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Digitizing Services",
+        "alias": "digitizingservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Dim Sum",
+        "alias": "dimsum",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Diners",
+        "alias": "diners",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Dinner Theater",
+        "alias": "dinnertheater",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Disability Law",
+        "alias": "disabilitylaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Disc Golf",
+        "alias": "discgolf",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Discount Store",
+        "alias": "discountstore",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Distilleries",
+        "alias": "distilleries",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Dive Bars",
+        "alias": "divebars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Dive Shops",
+        "alias": "diveshops",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Diving",
+        "alias": "diving",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Divorce & Family Law",
+        "alias": "divorce",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "DIY Auto Shop",
+        "alias": "diyautoshop",
+        "parent_aliases": "autorepair"
+    },
+    {
+        "title": "Do-It-Yourself Food",
+        "alias": "diyfood",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "DJs",
+        "alias": "djs",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Dog Parks",
+        "alias": "dog_parks",
+        "parent_aliases": "parks"
+    },
+    {
+        "title": "Dog Walkers",
+        "alias": "dogwalkers",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Dolmus Station",
+        "alias": "dolmusstation",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Dominican",
+        "alias": "dominican",
+        "parent_aliases": "caribbean"
+    },
+    {
+        "title": "Donairs",
+        "alias": "donairs",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Donation Center",
+        "alias": "donationcenter",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Donburi",
+        "alias": "donburi",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Donuts",
+        "alias": "donuts",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Door Sales/Installation",
+        "alias": "doorsales",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Doulas",
+        "alias": "doulas",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Drama Schools",
+        "alias": "dramaschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Dried Fruit",
+        "alias": "driedfruit",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Drive-In Theater",
+        "alias": "driveintheater",
+        "parent_aliases": "movietheaters"
+    },
+    {
+        "title": "Drive-Thru Bars",
+        "alias": "drivethrubars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Driving Schools",
+        "alias": "driving_schools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Drones",
+        "alias": "drones",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Drugstores",
+        "alias": "drugstores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Dry Cleaning",
+        "alias": "dryclean",
+        "parent_aliases": "laundryservices"
+    },
+    {
+        "title": "Dry Cleaning & Laundry",
+        "alias": "drycleaninglaundry",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Drywall Installation & Repair",
+        "alias": "drywall",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "DUI Law",
+        "alias": "duilawyers",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "DUI Schools",
+        "alias": "duischools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Dumplings",
+        "alias": "dumplings",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Dumpster Rental",
+        "alias": "dumpsterrental",
+        "parent_aliases": "junkremovalandhauling"
+    },
+    {
+        "title": "Duplication Services",
+        "alias": "duplicationservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Duty-Free Shops",
+        "alias": "dutyfreeshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Ear Nose & Throat",
+        "alias": "earnosethroat",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Eastern European",
+        "alias": "eastern_european",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Eastern German",
+        "alias": "easterngerman",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Eastern Mexican",
+        "alias": "easternmexican",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Eatertainment",
+        "alias": "eatertainment",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Editorial Services",
+        "alias": "editorialservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Education",
+        "alias": "education",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Educational Services",
+        "alias": "educationservices",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Egyptian",
+        "alias": "egyptian",
+        "parent_aliases": "mideastern"
+    },
+    {
+        "title": "Elder Care Planning",
+        "alias": "eldercareplanning",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Elder Law",
+        "alias": "elderlaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Electricians",
+        "alias": "electricians",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Electricity Suppliers",
+        "alias": "electricitysuppliers",
+        "parent_aliases": "utilities"
+    },
+    {
+        "title": "Electronics",
+        "alias": "electronics",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Electronics Repair",
+        "alias": "electronicsrepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Elementary Schools",
+        "alias": "elementaryschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Elevator Services",
+        "alias": "elevatorservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Parent Cafes",
+        "alias": "eltern_cafes",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Embassy",
+        "alias": "embassy",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Embroidery & Crochet",
+        "alias": "embroideryandcrochet",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Emergency Medicine",
+        "alias": "emergencymedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Emergency Pet Hospital",
+        "alias": "emergencypethospital",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Emergency Rooms",
+        "alias": "emergencyrooms",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Emilian",
+        "alias": "emilian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Empanadas",
+        "alias": "empanadas",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Employment Agencies",
+        "alias": "employmentagencies",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Employment Law",
+        "alias": "employmentlawyers",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "EMS Training",
+        "alias": "emstraining",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Endocrinologists",
+        "alias": "endocrinologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Endodontists",
+        "alias": "endodontists",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Engraving",
+        "alias": "engraving",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Entertainment Law",
+        "alias": "entertainmentlaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Environmental Abatement",
+        "alias": "enviroabatement",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Environmental Testing",
+        "alias": "environmentaltesting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Eritrean",
+        "alias": "eritrean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Erotic Massage",
+        "alias": "eroticmassage",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Escape Games",
+        "alias": "escapegames",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Estate Liquidation",
+        "alias": "estateliquidation",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Real Estate Photography",
+        "alias": "estatephotography",
+        "parent_aliases": "realestatesvcs"
+    },
+    {
+        "title": "Estate Planning Law",
+        "alias": "estateplanning",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Estheticians",
+        "alias": "estheticians",
+        "parent_aliases": "skincare"
+    },
+    {
+        "title": "Ethical Grocery",
+        "alias": "ethicgrocery",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Ethiopian",
+        "alias": "ethiopian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Ethnic Grocery",
+        "alias": "ethnicgrocery",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Ethnic Food",
+        "alias": "ethnicmarkets",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "EV Charging Stations",
+        "alias": "evchargingstations",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Event Photography",
+        "alias": "eventphotography",
+        "parent_aliases": "photographers"
+    },
+    {
+        "title": "Party & Event Planning",
+        "alias": "eventplanning",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Event Planning & Services",
+        "alias": "eventservices",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Excavation Services",
+        "alias": "excavationservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Experiences",
+        "alias": "experiences",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Eyebrow Services",
+        "alias": "eyebrowservices",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Eyelash Service",
+        "alias": "eyelashservice",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Fabric Stores",
+        "alias": "fabricstores",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Face Painting",
+        "alias": "facepainting",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Fado Houses",
+        "alias": "fado_houses",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Faith-based Crisis Pregnancy Centers",
+        "alias": "faithbasedcpc",
+        "parent_aliases": "crisispregnancycenters"
+    },
+    {
+        "title": "Falafel",
+        "alias": "falafel",
+        "parent_aliases": "mediterranean"
+    },
+    {
+        "title": "Family Practice",
+        "alias": "familydr",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Farm Equipment Repair",
+        "alias": "farmequipmentrepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Farmers Market",
+        "alias": "farmersmarket",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Farming Equipment",
+        "alias": "farmingequipment",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Farms",
+        "alias": "farms",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Farriers",
+        "alias": "farriers",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Fashion",
+        "alias": "fashion",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Fasil Music",
+        "alias": "fasil",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Fences & Gates",
+        "alias": "fencesgates",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Fencing Clubs",
+        "alias": "fencing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Feng Shui",
+        "alias": "fengshui",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Ferries",
+        "alias": "ferries",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Fertility",
+        "alias": "fertility",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Festivals",
+        "alias": "festivals",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Filipino",
+        "alias": "filipino",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Financial Advising",
+        "alias": "financialadvising",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Financial Services",
+        "alias": "financialservices",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Fingerprinting",
+        "alias": "fingerprinting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Firearm Training",
+        "alias": "firearmtraining",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Fire Departments",
+        "alias": "firedepartments",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Fireplace Services",
+        "alias": "fireplace",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Fire Protection Services",
+        "alias": "fireprotection",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Firewood",
+        "alias": "firewood",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Fireworks",
+        "alias": "fireworks",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "First Aid Classes",
+        "alias": "firstaidclasses",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Fischbroetchen",
+        "alias": "fischbroetchen",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Fishing",
+        "alias": "fishing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Fishmonger",
+        "alias": "fishmonger",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Fish & Chips",
+        "alias": "fishnchips",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Fitness & Instruction",
+        "alias": "fitness",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Fitness/Exercise Equipment",
+        "alias": "fitnessequipment",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Flatbread",
+        "alias": "flatbread",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Flea Markets",
+        "alias": "fleamarkets",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Flemish",
+        "alias": "flemish",
+        "parent_aliases": "belgian"
+    },
+    {
+        "title": "Flight Instruction",
+        "alias": "flightinstruction",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Float Spa",
+        "alias": "floatspa",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Flooring",
+        "alias": "flooring",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Floral Designers",
+        "alias": "floraldesigners",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Florists",
+        "alias": "florists",
+        "parent_aliases": "flowers"
+    },
+    {
+        "title": "Flowers & Gifts",
+        "alias": "flowers",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Flowers",
+        "alias": "flowersonly",
+        "parent_aliases": "flowers"
+    },
+    {
+        "title": "Flyboarding",
+        "alias": "flyboarding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Fondue",
+        "alias": "fondue",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Food",
+        "alias": "food",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Food Court",
+        "alias": "food_court",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Food Banks",
+        "alias": "foodbanks",
+        "parent_aliases": "nonprofit"
+    },
+    {
+        "title": "Food Delivery Services",
+        "alias": "fooddeliveryservices",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Food Safety Training",
+        "alias": "foodsafety",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Food Stands",
+        "alias": "foodstands",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Food Tours",
+        "alias": "foodtours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Food Trucks",
+        "alias": "foodtrucks",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Soccer",
+        "alias": "football",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Foot Care",
+        "alias": "footcare",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Forestry",
+        "alias": "forestry",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Formal Wear",
+        "alias": "formalwear",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Foundation Repair",
+        "alias": "foundationrepair",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Framing",
+        "alias": "framing",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Franconian",
+        "alias": "franconian",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Free Diving",
+        "alias": "freediving",
+        "parent_aliases": "diving"
+    },
+    {
+        "title": "Freiduria",
+        "alias": "freiduria",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "French",
+        "alias": "french",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Friterie",
+        "alias": "friterie",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Friulan",
+        "alias": "friulan",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Frozen Food",
+        "alias": "frozenfood",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Fuel Docks",
+        "alias": "fueldocks",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Funeral Services & Cemeteries",
+        "alias": "funeralservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Fun Fair",
+        "alias": "funfair",
+        "parent_aliases": "festivals"
+    },
+    {
+        "title": "Fur Clothing",
+        "alias": "furclothing",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Furniture Stores",
+        "alias": "furniture",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Furniture Assembly",
+        "alias": "furnitureassembly",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Furniture Repair",
+        "alias": "furniturerepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Fuzhou",
+        "alias": "fuzhou",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Galician",
+        "alias": "galician",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Art Galleries",
+        "alias": "galleries",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Game Meat",
+        "alias": "gamemeat",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Game Truck Rental",
+        "alias": "gametruckrental",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Garage Door Services",
+        "alias": "garage_door_services",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Gardeners",
+        "alias": "gardeners",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Nurseries & Gardening",
+        "alias": "gardening",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Botanical Gardens",
+        "alias": "gardens",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Gas Stations",
+        "alias": "gasstations",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Gastroenterologist",
+        "alias": "gastroenterologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Gastropubs",
+        "alias": "gastropubs",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Gay Bars",
+        "alias": "gaybars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Gelato",
+        "alias": "gelato",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Gemstones & Minerals",
+        "alias": "gemstonesandminerals",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "General Litigation",
+        "alias": "general_litigation",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "General Dentistry",
+        "alias": "generaldentistry",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "General Festivals",
+        "alias": "generalfestivals",
+        "parent_aliases": "festivals"
+    },
+    {
+        "title": "Generator Installation/Repair",
+        "alias": "generatorinstallrepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Geneticists",
+        "alias": "geneticists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Georgian",
+        "alias": "georgian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "German",
+        "alias": "german",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Gerontologists",
+        "alias": "gerontologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Gestorias",
+        "alias": "gestorias",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Giblets",
+        "alias": "giblets",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Gift Shops",
+        "alias": "giftshops",
+        "parent_aliases": "flowers"
+    },
+    {
+        "title": "Glass & Mirrors",
+        "alias": "glassandmirrors",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Glass Blowing",
+        "alias": "glassblowing",
+        "parent_aliases": "artclasses"
+    },
+    {
+        "title": "Gliding",
+        "alias": "gliding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Mulled Wine",
+        "alias": "gluhwein",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Gluten-Free",
+        "alias": "gluten_free",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Go Karts",
+        "alias": "gokarts",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Gold Buyers",
+        "alias": "goldbuyers",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Golf",
+        "alias": "golf",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Golf Cart Dealers",
+        "alias": "golfcartdealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Golf Cart Rentals",
+        "alias": "golfcartrentals",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Golf Equipment",
+        "alias": "golfequipment",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Golf Lessons",
+        "alias": "golflessons",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Golf Equipment Shops",
+        "alias": "golfshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Specialty Food",
+        "alias": "gourmet",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Gozleme",
+        "alias": "gozleme",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Graphic Design",
+        "alias": "graphicdesign",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Greek",
+        "alias": "greek",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Grilling Equipment",
+        "alias": "grillingequipment",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Grill Services",
+        "alias": "grillservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Grocery",
+        "alias": "grocery",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Pet Groomers",
+        "alias": "groomer",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Grout Services",
+        "alias": "groutservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Guamanian",
+        "alias": "guamanian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Guest Houses",
+        "alias": "guesthouses",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Guitar Stores",
+        "alias": "guitarstores",
+        "parent_aliases": "musicinstrumentservices"
+    },
+    {
+        "title": "Gun/Rifle Ranges",
+        "alias": "gun_ranges",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Guns & Ammo",
+        "alias": "guns_and_ammo",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Gunsmith",
+        "alias": "gunsmith",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Gutter Services",
+        "alias": "gutterservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Gymnastics",
+        "alias": "gymnastics",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Gyms",
+        "alias": "gyms",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Gyudon",
+        "alias": "gyudon",
+        "parent_aliases": "donburi"
+    },
+    {
+        "title": "Habilitative Services",
+        "alias": "habilitativeservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Hainan",
+        "alias": "hainan",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Hair Salons",
+        "alias": "hair",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Hair Extensions",
+        "alias": "hair_extensions",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Hair Loss Centers",
+        "alias": "hairloss",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Hair Removal",
+        "alias": "hairremoval",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Hair Stylists",
+        "alias": "hairstylists",
+        "parent_aliases": "hair"
+    },
+    {
+        "title": "Haitian",
+        "alias": "haitian",
+        "parent_aliases": "caribbean"
+    },
+    {
+        "title": "Hakka",
+        "alias": "hakka",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Halal",
+        "alias": "halal",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Halfway Houses",
+        "alias": "halfwayhouses",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Halotherapy",
+        "alias": "halotherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Handball",
+        "alias": "handball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Hand Rolls",
+        "alias": "handrolls",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Handyman",
+        "alias": "handyman",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Hang Gliding",
+        "alias": "hanggliding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Hardware Stores",
+        "alias": "hardware",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Hats",
+        "alias": "hats",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Haunted Houses",
+        "alias": "hauntedhouses",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Hawaiian",
+        "alias": "hawaiian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hawker Centre",
+        "alias": "hawkercentre",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Hazardous Waste Disposal",
+        "alias": "hazardouswastedisposal",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Head Shops",
+        "alias": "headshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Health & Medical",
+        "alias": "health",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Health Coach",
+        "alias": "healthcoach",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Health Insurance Offices",
+        "alias": "healthinsurance",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Health Markets",
+        "alias": "healthmarkets",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Health Retreats",
+        "alias": "healthretreats",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Trainers",
+        "alias": "healthtrainers",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Hearing Aids",
+        "alias": "hearing_aids",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Hearing Aid Providers",
+        "alias": "hearingaidproviders",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Henghwa",
+        "alias": "henghwa",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Henna Artists",
+        "alias": "hennaartists",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Hepatologists",
+        "alias": "hepatologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Herbal Shops",
+        "alias": "herbalshops",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Herbs & Spices",
+        "alias": "herbsandspices",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Hessian",
+        "alias": "hessian",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Heuriger",
+        "alias": "heuriger",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "High Fidelity Audio Equipment",
+        "alias": "hifi",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Middle Schools & High Schools",
+        "alias": "highschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Hiking",
+        "alias": "hiking",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Himalayan/Nepalese",
+        "alias": "himalayan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hindu Temples",
+        "alias": "hindu_temples",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Historical Tours",
+        "alias": "historicaltours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Hong Kong Style Cafe",
+        "alias": "hkcafe",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hobby Shops",
+        "alias": "hobbyshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Hockey Equipment",
+        "alias": "hockeyequipment",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Hokkien",
+        "alias": "hokkien",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Holiday Decorations",
+        "alias": "holidaydecorations",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Home Inspectors",
+        "alias": "home_inspectors",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home Organization",
+        "alias": "home_organization",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home & Garden",
+        "alias": "homeandgarden",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Appliances & Repair",
+        "alias": "homeappliancerepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Home Automation",
+        "alias": "homeautomation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home Cleaning",
+        "alias": "homecleaning",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home Decor",
+        "alias": "homedecor",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Home Developers",
+        "alias": "homedevelopers",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Home Energy Auditors",
+        "alias": "homeenergyauditors",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home Health Care",
+        "alias": "homehealthcare",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Home & Rental Insurance",
+        "alias": "homeinsurance",
+        "parent_aliases": "insurance"
+    },
+    {
+        "title": "Homeless Shelters",
+        "alias": "homelessshelters",
+        "parent_aliases": "nonprofit"
+    },
+    {
+        "title": "Homemade Food",
+        "alias": "homemadefood",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Home Network Installation",
+        "alias": "homenetworkinstall",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Homeopathic",
+        "alias": "homeopathic",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Homeowner Association",
+        "alias": "homeownerassociation",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Home Services",
+        "alias": "homeservices",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Home Staging",
+        "alias": "homestaging",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Home Theatre Installation",
+        "alias": "hometheatreinstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Home Window Tinting",
+        "alias": "homewindowtinting",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Honduran",
+        "alias": "honduran",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Honey",
+        "alias": "honey",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Hookah Bars",
+        "alias": "hookah_bars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Horse Boarding",
+        "alias": "horse_boarding",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Horseback Riding",
+        "alias": "horsebackriding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Horse Equipment Shops",
+        "alias": "horsequipment",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Horse Racing",
+        "alias": "horseracing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Horumon",
+        "alias": "horumon",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Hospice",
+        "alias": "hospice",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Hospitalists",
+        "alias": "hospitalists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Hospitals",
+        "alias": "hospitals",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Hostels",
+        "alias": "hostels",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Hot Air Balloons",
+        "alias": "hot_air_balloons",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Hot Dogs",
+        "alias": "hotdog",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Fast Food",
+        "alias": "hotdogs",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hotel bar",
+        "alias": "hotel_bar",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Hotels",
+        "alias": "hotels",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Hotels & Travel",
+        "alias": "hotelstravel",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Hot Pot",
+        "alias": "hotpot",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hot Springs",
+        "alias": "hotsprings",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Hot Tub & Pool",
+        "alias": "hottubandpool",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "House Sitters",
+        "alias": "housesitters",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Housing Cooperatives",
+        "alias": "housingcooperatives",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Hunan",
+        "alias": "hunan",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Hungarian",
+        "alias": "hungarian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Hunting & Fishing Supplies",
+        "alias": "huntingfishingsupplies",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Heating & Air Conditioning/HVAC",
+        "alias": "hvac",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Hybrid Car Repair",
+        "alias": "hybridcarrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Hydro-jetting",
+        "alias": "hydrojetting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Hydroponics",
+        "alias": "hydroponics",
+        "parent_aliases": "gardening"
+    },
+    {
+        "title": "Hydrotherapy",
+        "alias": "hydrotherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Hypnosis/Hypnotherapy",
+        "alias": "hypnosis",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Iberian",
+        "alias": "iberian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Ice Cream & Frozen Yogurt",
+        "alias": "icecream",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Ice Delivery",
+        "alias": "icedelivery",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Immigration Law",
+        "alias": "immigrationlawyers",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Immunodermatologists",
+        "alias": "immunodermatologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Imported Food",
+        "alias": "importedfood",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Indonesian",
+        "alias": "indonesian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Indoor Playcentre",
+        "alias": "indoor_playcenter",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Indoor Landscaping",
+        "alias": "indoorlandscaping",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Indian",
+        "alias": "indpak",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Infectious Disease Specialists",
+        "alias": "infectiousdisease",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Installment Loans",
+        "alias": "installmentloans",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Insulation Installation",
+        "alias": "insulationinstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Insurance",
+        "alias": "insurance",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Interior Design",
+        "alias": "interiordesign",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Interlock Systems",
+        "alias": "interlocksystems",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Internal Medicine",
+        "alias": "internalmed",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "International",
+        "alias": "international",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Internet Booths & Calling Centers",
+        "alias": "internetbooth",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Internet Cafes",
+        "alias": "internetcafe",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Interval Training Gyms",
+        "alias": "intervaltraininggyms",
+        "parent_aliases": "gyms"
+    },
+    {
+        "title": "International Grocery",
+        "alias": "intlgrocery",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Investing",
+        "alias": "investing",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "IP & Internet Law",
+        "alias": "iplaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Irish",
+        "alias": "irish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Irish Pub",
+        "alias": "irish_pubs",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Irrigation",
+        "alias": "irrigation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Island Pub",
+        "alias": "island_pub",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Internet Service Providers",
+        "alias": "isps",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Israeli",
+        "alias": "israeli",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Italian",
+        "alias": "italian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "IT Services & Computer Repair",
+        "alias": "itservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "IV Hydration",
+        "alias": "ivhydration",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Izakaya",
+        "alias": "izakaya",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Jails & Prisons",
+        "alias": "jailsandprisons",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Jaliscan",
+        "alias": "jaliscan",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Japanese Curry",
+        "alias": "japacurry",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Japanese",
+        "alias": "japanese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Jazz & Blues",
+        "alias": "jazzandblues",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Jet Skis",
+        "alias": "jetskis",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Jewelry",
+        "alias": "jewelry",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Jewelry Repair",
+        "alias": "jewelryrepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Jewish",
+        "alias": "jewish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Japanese Sweets",
+        "alias": "jpsweets",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Juice Bars & Smoothies",
+        "alias": "juicebars",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Junk Removal & Hauling",
+        "alias": "junkremovalandhauling",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Junkyards",
+        "alias": "junkyards",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Kaiseki",
+        "alias": "kaiseki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Karaoke",
+        "alias": "karaoke",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Karaoke Rental",
+        "alias": "karaokerental",
+        "parent_aliases": "partyequipmentrentals"
+    },
+    {
+        "title": "Karate",
+        "alias": "karate",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Kebab",
+        "alias": "kebab",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Kickboxing",
+        "alias": "kickboxing",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Kids Activities",
+        "alias": "kids_activities",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Kids Hair Salons",
+        "alias": "kidshairsalons",
+        "parent_aliases": "hair"
+    },
+    {
+        "title": "Kimonos",
+        "alias": "kimonos",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Kiosk",
+        "alias": "kiosk",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Kitchen & Bath",
+        "alias": "kitchenandbath",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Kitchen Incubators",
+        "alias": "kitchenincubators",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Kitchen Supplies",
+        "alias": "kitchensupplies",
+        "parent_aliases": "kitchenandbath"
+    },
+    {
+        "title": "Kiteboarding",
+        "alias": "kiteboarding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Knife Sharpening",
+        "alias": "knifesharpening",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Knitting Supplies",
+        "alias": "knittingsupplies",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Kombucha",
+        "alias": "kombucha",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Kopitiam",
+        "alias": "kopitiam",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Korean",
+        "alias": "korean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Kosher",
+        "alias": "kosher",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Kurdish",
+        "alias": "kurdish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Kushikatsu",
+        "alias": "kushikatsu",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Laboratory Testing",
+        "alias": "laboratorytesting",
+        "parent_aliases": "diagnosticservices"
+    },
+    {
+        "title": "Lactation Services",
+        "alias": "lactationservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Lahmacun",
+        "alias": "lahmacun",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Lakes",
+        "alias": "lakes",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "LAN Centers",
+        "alias": "lancenters",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Landmarks & Historical Buildings",
+        "alias": "landmarks",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Landscape Architects or Designers",
+        "alias": "landscapearchitects",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Landscaping",
+        "alias": "landscaping",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Land Surveying",
+        "alias": "landsurveying",
+        "parent_aliases": "realestatesvcs"
+    },
+    {
+        "title": "Language Schools",
+        "alias": "language_schools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Laos",
+        "alias": "laos",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Laotian",
+        "alias": "laotian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Laser Hair Removal",
+        "alias": "laser_hair_removal",
+        "parent_aliases": "hairremoval"
+    },
+    {
+        "title": "Laser Eye Surgery/Lasik",
+        "alias": "laserlasikeyes",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Laser Tag",
+        "alias": "lasertag",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Latin American",
+        "alias": "latin",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Laundromat",
+        "alias": "laundromat",
+        "parent_aliases": "laundryservices"
+    },
+    {
+        "title": "Laundry Services",
+        "alias": "laundryservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Lawn Bowling",
+        "alias": "lawn_bowling",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Lawn Services",
+        "alias": "lawnservices",
+        "parent_aliases": "landscaping"
+    },
+    {
+        "title": "Lawyers",
+        "alias": "lawyers",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Leather Goods",
+        "alias": "leather",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Lebanese",
+        "alias": "lebanese",
+        "parent_aliases": "mideastern"
+    },
+    {
+        "title": "Legal Services",
+        "alias": "legalservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Leisure Centers",
+        "alias": "leisure_centers",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Libraries",
+        "alias": "libraries",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Lice Services",
+        "alias": "liceservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Life Coach",
+        "alias": "lifecoach",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Life Insurance",
+        "alias": "lifeinsurance",
+        "parent_aliases": "insurance"
+    },
+    {
+        "title": "Lighting Fixtures & Equipment",
+        "alias": "lighting",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Lighting Stores",
+        "alias": "lightingstores",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Ligurian",
+        "alias": "ligurian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Limos",
+        "alias": "limos",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Linens",
+        "alias": "linens",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Lingerie",
+        "alias": "lingerie",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Livestock Feed & Supply",
+        "alias": "livestocksupply",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Local Fish Stores",
+        "alias": "localfishstores",
+        "parent_aliases": "petstore"
+    },
+    {
+        "title": "Local Flavor",
+        "alias": "localflavor",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Local Services",
+        "alias": "localservices",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Keys & Locksmiths",
+        "alias": "locksmiths",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Lounges",
+        "alias": "lounges",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Luggage",
+        "alias": "luggage",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Luggage Storage",
+        "alias": "luggagestorage",
+        "parent_aliases": "travelservices"
+    },
+    {
+        "title": "Lumbard",
+        "alias": "lumbard",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Lyonnais",
+        "alias": "lyonnais",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Macarons",
+        "alias": "macarons",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Machine & Tool Rental",
+        "alias": "machinerental",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Machine Shops",
+        "alias": "machineshops",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Madeira",
+        "alias": "madeira",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Magicians",
+        "alias": "magicians",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Newspapers & Magazines",
+        "alias": "mags",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Mah Jong Halls",
+        "alias": "mahjong",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Mailbox Centers",
+        "alias": "mailboxcenters",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Makerspaces",
+        "alias": "makerspaces",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Makeup Artists",
+        "alias": "makeupartists",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Malaysian",
+        "alias": "malaysian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Mamak",
+        "alias": "mamak",
+        "parent_aliases": "malaysian"
+    },
+    {
+        "title": "Marching Bands",
+        "alias": "marchingbands",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Marinas",
+        "alias": "marinas",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Marketing",
+        "alias": "marketing",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Fruits & Veggies",
+        "alias": "markets",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Market Stalls",
+        "alias": "marketstalls",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Martial Arts",
+        "alias": "martialarts",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Masonry/Concrete",
+        "alias": "masonry_concrete",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Massage",
+        "alias": "massage",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Massage Schools",
+        "alias": "massage_schools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Massage Therapy",
+        "alias": "massage_therapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Mass Media",
+        "alias": "massmedia",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Matchmakers",
+        "alias": "matchmakers",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Materiale elettrico",
+        "alias": "materialeelettrico",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Maternity Wear",
+        "alias": "maternity",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Mattresses",
+        "alias": "mattresses",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Mauritius",
+        "alias": "mauritius",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Meaderies",
+        "alias": "meaderies",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Meatballs",
+        "alias": "meatballs",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Meat Shops",
+        "alias": "meats",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Medical Centers",
+        "alias": "medcenters",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Books, Mags, Music & Video",
+        "alias": "media",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Mediators",
+        "alias": "mediators",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Medical Foot Care",
+        "alias": "medicalfoot",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Medical Law",
+        "alias": "medicallaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Medical Spas",
+        "alias": "medicalspa",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Medical Supplies",
+        "alias": "medicalsupplies",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Medical Transportation",
+        "alias": "medicaltransportation",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Meditation Centers",
+        "alias": "meditationcenters",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Mediterranean",
+        "alias": "mediterranean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Memory Care",
+        "alias": "memorycare",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Men's Clothing",
+        "alias": "menscloth",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Men's Hair Salons",
+        "alias": "menshair",
+        "parent_aliases": "hair"
+    },
+    {
+        "title": "Metal Detector Services",
+        "alias": "metaldetectorservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Metal Fabricators",
+        "alias": "metalfabricators",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Metro Stations",
+        "alias": "metrostations",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Mexican",
+        "alias": "mexican",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Middle Eastern",
+        "alias": "mideastern",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Midwives",
+        "alias": "midwives",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Military Surplus",
+        "alias": "militarysurplus",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Milk Bars",
+        "alias": "milkbars",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Milkshake Bars",
+        "alias": "milkshakebars",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Minho",
+        "alias": "minho",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Mini Golf",
+        "alias": "mini_golf",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Misting System Services",
+        "alias": "mistingsystemservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Mobile Home Repair",
+        "alias": "mobile_home_repair",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Mobile Dent Repair",
+        "alias": "mobiledentrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Mobile Home Dealers",
+        "alias": "mobilehomes",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Mobile Home Parks",
+        "alias": "mobileparks",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Mobile Phone Repair",
+        "alias": "mobilephonerepair",
+        "parent_aliases": "itservices"
+    },
+    {
+        "title": "Mobile Phones",
+        "alias": "mobilephones",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Mobility Equipment Sales & Services",
+        "alias": "mobilityequipment",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Modern Australian",
+        "alias": "modern_australian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Modern European",
+        "alias": "modern_european",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Mohels",
+        "alias": "mohels",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Mongolian",
+        "alias": "mongolian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Montessori Schools",
+        "alias": "montessori",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Moroccan",
+        "alias": "moroccan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Mortgage Brokers",
+        "alias": "mortgagebrokers",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Mortgage Lenders",
+        "alias": "mortgagelenders",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Mortuary Services",
+        "alias": "mortuaryservices",
+        "parent_aliases": "funeralservices"
+    },
+    {
+        "title": "Mosques",
+        "alias": "mosques",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Motorsport Vehicle Dealers",
+        "alias": "motodealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Motorcycle Rental",
+        "alias": "motorcycle_rental",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Motorcycle Dealers",
+        "alias": "motorcycledealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Motorcycle Parts & Supplies",
+        "alias": "motorcyclepartsandsupplies",
+        "parent_aliases": "autopartssupplies"
+    },
+    {
+        "title": "Motorcycle Repair",
+        "alias": "motorcyclerepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Motorcycle Gear",
+        "alias": "motorcyclinggear",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Motorsport Vehicle Repairs",
+        "alias": "motorepairs",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Mountain Biking",
+        "alias": "mountainbiking",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Mountain Huts",
+        "alias": "mountainhuts",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Movers",
+        "alias": "movers",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Cinema",
+        "alias": "movietheaters",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Muay Thai",
+        "alias": "muaythai",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Municipality",
+        "alias": "municipality",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Museums",
+        "alias": "museums",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Musical Instruments & Teachers",
+        "alias": "musicalinstrumentsandteachers",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Musicians",
+        "alias": "musicians",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Musical Instrument Services",
+        "alias": "musicinstrumentservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Music Production Services",
+        "alias": "musicproduction",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Music Venues",
+        "alias": "musicvenues",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Music & DVDs",
+        "alias": "musicvideo",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Mystics",
+        "alias": "mystics",
+        "parent_aliases": "psychic_astrology"
+    },
+    {
+        "title": "Nail Technicians",
+        "alias": "nailtechnicians",
+        "parent_aliases": "othersalons"
+    },
+    {
+        "title": "Nanny Services",
+        "alias": "nannys",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Napoletana",
+        "alias": "napoletana",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Nasi Lemak",
+        "alias": "nasilemak",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Natural Gas Suppliers",
+        "alias": "naturalgassuppliers",
+        "parent_aliases": "utilities"
+    },
+    {
+        "title": "Naturopathic/Holistic",
+        "alias": "naturopathic",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Nephrologists",
+        "alias": "nephrologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Neurologist",
+        "alias": "neurologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Neuropathologists",
+        "alias": "neuropathologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Neurotologists",
+        "alias": "neurotologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "New American",
+        "alias": "newamerican",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Canadian (New)",
+        "alias": "newcanadian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "New Mexican Cuisine",
+        "alias": "newmexican",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "New Zealand",
+        "alias": "newzealand",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Nicaraguan",
+        "alias": "nicaraguan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Nicoise",
+        "alias": "nicois",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Night Food",
+        "alias": "nightfood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Nightlife",
+        "alias": "nightlife",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Nikkei",
+        "alias": "nikkei",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Community Service/Non-Profit",
+        "alias": "nonprofit",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Noodles",
+        "alias": "noodles",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Norcinerie",
+        "alias": "norcinerie",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Northeastern Brazilian",
+        "alias": "northeasternbrazilian",
+        "parent_aliases": "brazilian"
+    },
+    {
+        "title": "Northern Brazilian",
+        "alias": "northernbrazilian",
+        "parent_aliases": "brazilian"
+    },
+    {
+        "title": "Northern German",
+        "alias": "northerngerman",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Northern Mexican",
+        "alias": "northernmexican",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Traditional Norwegian",
+        "alias": "norwegian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Notaries",
+        "alias": "notaries",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Nudist",
+        "alias": "nudist",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Nurse Practitioner",
+        "alias": "nursepractitioner",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Nursing Schools",
+        "alias": "nursingschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Nutritionists",
+        "alias": "nutritionists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Nyonya",
+        "alias": "nyonya",
+        "parent_aliases": "malaysian"
+    },
+    {
+        "title": "Oaxacan",
+        "alias": "oaxacan",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Obstetricians & Gynecologists",
+        "alias": "obgyn",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Observatories",
+        "alias": "observatories",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Occupational Therapy",
+        "alias": "occupationaltherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Oden",
+        "alias": "oden",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Office Cleaning",
+        "alias": "officecleaning",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Office Equipment",
+        "alias": "officeequipment",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Officiants",
+        "alias": "officiants",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Oil Change Stations",
+        "alias": "oilchange",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Okinawan",
+        "alias": "okinawan",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Okonomiyaki",
+        "alias": "okonomiyaki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Olive Oil",
+        "alias": "oliveoil",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Oncologist",
+        "alias": "oncologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Onigiri",
+        "alias": "onigiri",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Open Sandwiches",
+        "alias": "opensandwiches",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Opera & Ballet",
+        "alias": "opera",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Ophthalmologists",
+        "alias": "opthamalogists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Eyewear & Opticians",
+        "alias": "opticians",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Optometrists",
+        "alias": "optometrists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Oral Surgeons",
+        "alias": "oralsurgeons",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Organ & Tissue Donor Services",
+        "alias": "organdonorservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Organic Stores",
+        "alias": "organic_stores",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Oriental",
+        "alias": "oriental",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Orthodontists",
+        "alias": "orthodontists",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Orthopedists",
+        "alias": "orthopedists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Orthotics",
+        "alias": "orthotics",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Osteopathic Physicians",
+        "alias": "osteopathicphysicians",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Osteopaths",
+        "alias": "osteopaths",
+        "parent_aliases": "medcenters"
+    },
+    {
+        "title": "Nail Salons",
+        "alias": "othersalons",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Otologists",
+        "alias": "otologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Ottoman Cuisine",
+        "alias": "ottomancuisine",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Outdoor Furniture Stores",
+        "alias": "outdoorfurniture",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Outdoor Gear",
+        "alias": "outdoorgear",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Outdoor Movies",
+        "alias": "outdoormovies",
+        "parent_aliases": "movietheaters"
+    },
+    {
+        "title": "Outdoor Power Equipment Services",
+        "alias": "outdoorpowerequipmentservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Outlet Stores",
+        "alias": "outlet_stores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Oxygen Bars",
+        "alias": "oxygenbars",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Oyakodon",
+        "alias": "oyakodon",
+        "parent_aliases": "donburi"
+    },
+    {
+        "title": "Pachinko",
+        "alias": "pachinko",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Packing Services",
+        "alias": "packingservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Packing Supplies",
+        "alias": "packingsupplies",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Paddleboarding",
+        "alias": "paddleboarding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Pain Management",
+        "alias": "painmanagement",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Paint & Sip",
+        "alias": "paintandsip",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Paintball",
+        "alias": "paintball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Painters",
+        "alias": "painters",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Paint Stores",
+        "alias": "paintstores",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Paint-Your-Own Pottery",
+        "alias": "paintyourownpottery",
+        "parent_aliases": "artsandcrafts"
+    },
+    {
+        "title": "Pakistani",
+        "alias": "pakistani",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Palatine",
+        "alias": "palatine",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Pan Asian",
+        "alias": "panasian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pancakes",
+        "alias": "pancakes",
+        "parent_aliases": "breakfast_brunch"
+    },
+    {
+        "title": "Panzerotti",
+        "alias": "panzerotti",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Paragliding",
+        "alias": "paragliding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Parasailing",
+        "alias": "parasailing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Parenting Classes",
+        "alias": "parentingclasses",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Parking",
+        "alias": "parking",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Parklets",
+        "alias": "parklets",
+        "parent_aliases": "localflavor"
+    },
+    {
+        "title": "Parks",
+        "alias": "parks",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Parma",
+        "alias": "parma",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Party Bike Rentals",
+        "alias": "partybikerentals",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Party Bus Rentals",
+        "alias": "partybusrentals",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Party Characters",
+        "alias": "partycharacters",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Party Equipment Rentals",
+        "alias": "partyequipmentrentals",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Party Supplies",
+        "alias": "partysupplies",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Passport & Visa Services",
+        "alias": "passportvisaservices",
+        "parent_aliases": "travelservices"
+    },
+    {
+        "title": "Pasta Shops",
+        "alias": "pastashops",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Patent Law",
+        "alias": "patentlaw",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Pathologists",
+        "alias": "pathologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Patio Coverings",
+        "alias": "patiocoverings",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Pawn Shops",
+        "alias": "pawn",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Check Cashing/Pay-day Loans",
+        "alias": "paydayloans",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Payroll Services",
+        "alias": "payroll",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Pediatric Dentists",
+        "alias": "pediatric_dentists",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Pediatricians",
+        "alias": "pediatricians",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Pedicabs",
+        "alias": "pedicabs",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Pekinese",
+        "alias": "pekinese",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Pensions",
+        "alias": "pensions",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Perfume",
+        "alias": "perfume",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Periodontists",
+        "alias": "periodontists",
+        "parent_aliases": "dentists"
+    },
+    {
+        "title": "Permanent Makeup",
+        "alias": "permanentmakeup",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Persian/Iranian",
+        "alias": "persian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Personal Injury Law",
+        "alias": "personal_injury",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Personal Shopping",
+        "alias": "personal_shopping",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Personal Assistants",
+        "alias": "personalassistants",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Personal Care Services",
+        "alias": "personalcare",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Personal Chefs",
+        "alias": "personalchefs",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Peruvian",
+        "alias": "peruvian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pest Control",
+        "alias": "pest_control",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Pet Sitting",
+        "alias": "pet_sitting",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Training",
+        "alias": "pet_training",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Adoption",
+        "alias": "petadoption",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Pet Boarding",
+        "alias": "petboarding",
+        "parent_aliases": "pet_sitting"
+    },
+    {
+        "title": "Pet Breeders",
+        "alias": "petbreeders",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Cremation Services",
+        "alias": "petcremation",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Hospice",
+        "alias": "pethospice",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Insurance",
+        "alias": "petinsurance",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Photography",
+        "alias": "petphotography",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pets",
+        "alias": "pets",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Pet Services",
+        "alias": "petservices",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Pet Stores",
+        "alias": "petstore",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Petting Zoos",
+        "alias": "pettingzoos",
+        "parent_aliases": "zoos"
+    },
+    {
+        "title": "Pet Transportation",
+        "alias": "pettransport",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "Pet Waste Removal",
+        "alias": "petwasteremoval",
+        "parent_aliases": "petservices"
+    },
+    {
+        "title": "PF/Comercial",
+        "alias": "pfcomercial",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pharmacy",
+        "alias": "pharmacy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Phlebologists",
+        "alias": "phlebologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Photo Booth Rentals",
+        "alias": "photoboothrentals",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Photography Classes",
+        "alias": "photoclasses",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Photographers",
+        "alias": "photographers",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Photography Stores & Services",
+        "alias": "photographystores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Physical Therapy",
+        "alias": "physicaltherapy",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Doctors",
+        "alias": "physicians",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Piadina",
+        "alias": "piadina",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Piano Bars",
+        "alias": "pianobars",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Piano Services",
+        "alias": "pianoservices",
+        "parent_aliases": "musicinstrumentservices"
+    },
+    {
+        "title": "Piano Stores",
+        "alias": "pianostores",
+        "parent_aliases": "musicinstrumentservices"
+    },
+    {
+        "title": "Pickleball",
+        "alias": "pickleball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Pick Your Own Farms",
+        "alias": "pickyourown",
+        "parent_aliases": "farms"
+    },
+    {
+        "title": "Piemonte",
+        "alias": "piemonte",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Piercing",
+        "alias": "piercing",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Pierogis",
+        "alias": "pierogis",
+        "parent_aliases": "polish"
+    },
+    {
+        "title": "Pilates",
+        "alias": "pilates",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Pita",
+        "alias": "pita",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pizza",
+        "alias": "pizza",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Placenta Encapsulations",
+        "alias": "placentaencapsulation",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Planetarium",
+        "alias": "planetarium",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Plastic Surgeons",
+        "alias": "plasticsurgeons",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Playgrounds",
+        "alias": "playgrounds",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Playsets",
+        "alias": "playsets",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Plumbing",
+        "alias": "plumbing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Plus Size Fashion",
+        "alias": "plus_size_fashion",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Podiatrists",
+        "alias": "podiatrists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Poke",
+        "alias": "poke",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Pole Dancing Classes",
+        "alias": "poledancingclasses",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Police Departments",
+        "alias": "policedepartments",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Polish",
+        "alias": "polish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Polynesian",
+        "alias": "polynesian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pool & Billiards",
+        "alias": "poolbilliards",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Pool Cleaners",
+        "alias": "poolcleaners",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Pool Halls",
+        "alias": "poolhalls",
+        "parent_aliases": "nightlife"
+    },
+    {
+        "title": "Pool & Hot Tub Service",
+        "alias": "poolservice",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Popcorn Shops",
+        "alias": "popcorn",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Pop-Up Restaurants",
+        "alias": "popuprestaurants",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Pop-up Shops",
+        "alias": "popupshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Portable Toilet Services",
+        "alias": "portabletoiletservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Portuguese",
+        "alias": "portuguese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Post Offices",
+        "alias": "postoffices",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Postpartum Care",
+        "alias": "postpartumcare",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Potatoes",
+        "alias": "potatoes",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Poutineries",
+        "alias": "poutineries",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Powder Coating",
+        "alias": "powdercoating",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Prenatal/Perinatal Care",
+        "alias": "prenatal",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Preschools",
+        "alias": "preschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Pressure Washers",
+        "alias": "pressurewashers",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Pretzels",
+        "alias": "pretzels",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Preventive Medicine",
+        "alias": "preventivemedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Print Media",
+        "alias": "printmedia",
+        "parent_aliases": "massmedia"
+    },
+    {
+        "title": "Private Investigation",
+        "alias": "privateinvestigation",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Private Jet Charter",
+        "alias": "privatejetcharter",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Private Schools",
+        "alias": "privateschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Private Tutors",
+        "alias": "privatetutors",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Process Servers",
+        "alias": "processservers",
+        "parent_aliases": "legalservices"
+    },
+    {
+        "title": "Proctologists",
+        "alias": "proctologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Product Design",
+        "alias": "productdesign",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Professional Services",
+        "alias": "professional",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Propane",
+        "alias": "propane",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Property Management",
+        "alias": "propertymgmt",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Props",
+        "alias": "props",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Prosthetics",
+        "alias": "prosthetics",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Prosthodontists",
+        "alias": "prosthodontists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Provencal",
+        "alias": "provencal",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Psychiatrists",
+        "alias": "psychiatrists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Supernatural Readings",
+        "alias": "psychic_astrology",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Psychic Mediums",
+        "alias": "psychicmediums",
+        "parent_aliases": "psychic_astrology"
+    },
+    {
+        "title": "Psychics",
+        "alias": "psychics",
+        "parent_aliases": "psychic_astrology"
+    },
+    {
+        "title": "Psychoanalysts",
+        "alias": "psychoanalysts",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Psychologists",
+        "alias": "psychologists",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Psychotechnical Tests",
+        "alias": "psychotechnicaltests",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Psychotherapists",
+        "alias": "psychotherapists",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Pub Food",
+        "alias": "pubfood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Public Adjusters",
+        "alias": "publicadjusters",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Public Art",
+        "alias": "publicart",
+        "parent_aliases": "localflavor"
+    },
+    {
+        "title": "Public Markets",
+        "alias": "publicmarkets",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Public Plazas",
+        "alias": "publicplazas",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Public Relations",
+        "alias": "publicrelations",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Public Services & Government",
+        "alias": "publicservicesgovt",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Public Transportation",
+        "alias": "publictransport",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Pubs",
+        "alias": "pubs",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Pueblan",
+        "alias": "pueblan",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Puerto Rican",
+        "alias": "puertorican",
+        "parent_aliases": "caribbean"
+    },
+    {
+        "title": "Pulmonologist",
+        "alias": "pulmonologist",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Pulquerias",
+        "alias": "pulquerias",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Pumpkin Patches",
+        "alias": "pumpkinpatches",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Qi Gong",
+        "alias": "qigong",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Races & Competitions",
+        "alias": "races",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Race Tracks",
+        "alias": "racetracks",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Racing Experience",
+        "alias": "racingexperience",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Radiologists",
+        "alias": "radiologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Radio Stations",
+        "alias": "radiostations",
+        "parent_aliases": "massmedia"
+    },
+    {
+        "title": "Rafting/Kayaking",
+        "alias": "rafting",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Ramen",
+        "alias": "ramen",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Ranches",
+        "alias": "ranches",
+        "parent_aliases": "farms"
+    },
+    {
+        "title": "Live/Raw Food",
+        "alias": "raw_food",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Real Estate",
+        "alias": "realestate",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Real Estate Agents",
+        "alias": "realestateagents",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Real Estate Law",
+        "alias": "realestatelawyers",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Real Estate Services",
+        "alias": "realestatesvcs",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Record Labels",
+        "alias": "record_labels",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Recording & Rehearsal Studios",
+        "alias": "recording_studios",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Recreation Centers",
+        "alias": "recreation",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Recycling Center",
+        "alias": "recyclingcenter",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Refinishing Services",
+        "alias": "refinishing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Reflexology",
+        "alias": "reflexology",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Registration Services",
+        "alias": "registrationservices",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Registry Office",
+        "alias": "registry_office",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Rehabilitation Center",
+        "alias": "rehabilitation_center",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Reiki",
+        "alias": "reiki",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Religious Items",
+        "alias": "religiousitems",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Religious Organizations",
+        "alias": "religiousorgs",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Religious Schools",
+        "alias": "religiousschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Furniture Rental",
+        "alias": "rentfurniture",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Reproductive Health Services",
+        "alias": "reproductivehealthservices",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Reptile Shops",
+        "alias": "reptileshops",
+        "parent_aliases": "petstore"
+    },
+    {
+        "title": "Residences",
+        "alias": "residences",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Resorts",
+        "alias": "resorts",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Restaurants",
+        "alias": "restaurants",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Rest Stops",
+        "alias": "reststops",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Retina Specialists",
+        "alias": "retinaspecialists",
+        "parent_aliases": "opthamalogists"
+    },
+    {
+        "title": "Retirement Homes",
+        "alias": "retirement_homes",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Reunion",
+        "alias": "reunion",
+        "parent_aliases": "french"
+    },
+    {
+        "title": "Furniture Reupholstery",
+        "alias": "reupholstery",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Rheumatologists",
+        "alias": "rhematologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Rhinelandian",
+        "alias": "rhinelandian",
+        "parent_aliases": "german"
+    },
+    {
+        "title": "Ribatejo",
+        "alias": "ribatejo",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Rice",
+        "alias": "riceshop",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Roadside Assistance",
+        "alias": "roadsideassist",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Robatayaki",
+        "alias": "robatayaki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Rock Climbing",
+        "alias": "rock_climbing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Rodeo",
+        "alias": "rodeo",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Rodizios",
+        "alias": "rodizios",
+        "parent_aliases": "brazilian"
+    },
+    {
+        "title": "Rolfing",
+        "alias": "rolfing",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Roman",
+        "alias": "roman",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Romanian",
+        "alias": "romanian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Roofing",
+        "alias": "roofing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Roof Inspectors",
+        "alias": "roofinspectors",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Rotisserie Chicken",
+        "alias": "rotisserie_chicken",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Rugs",
+        "alias": "rugs",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Rumanian",
+        "alias": "rumanian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Russian",
+        "alias": "russian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "RV Dealers",
+        "alias": "rv_dealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "RV Parks",
+        "alias": "rvparks",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "RV Rental",
+        "alias": "rvrental",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "RV Repair",
+        "alias": "rvrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Ryokan",
+        "alias": "ryokan",
+        "parent_aliases": "hotels"
+    },
+    {
+        "title": "Safe Stores",
+        "alias": "safestores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Safety Equipment",
+        "alias": "safetyequipment",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Sailing",
+        "alias": "sailing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sake Bars",
+        "alias": "sakebars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Salad",
+        "alias": "salad",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Salumerie",
+        "alias": "salumerie",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Salvadoran",
+        "alias": "salvadoran",
+        "parent_aliases": "latin"
+    },
+    {
+        "title": "Samba Schools",
+        "alias": "sambaschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Sandblasting",
+        "alias": "sandblasting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Sandwiches",
+        "alias": "sandwiches",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Sardinian",
+        "alias": "sardinian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Sauna Installation & Repair",
+        "alias": "saunainstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Saunas",
+        "alias": "saunas",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Scandinavian",
+        "alias": "scandinavian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Scandinavian Design",
+        "alias": "scandinaviandesign",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Scavenger Hunts",
+        "alias": "scavengerhunts",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Schnitzel",
+        "alias": "schnitzel",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Scooter Rentals",
+        "alias": "scooterrentals",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Scooter Tours",
+        "alias": "scootertours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Scottish",
+        "alias": "scottish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Screen Printing/T-Shirt Printing",
+        "alias": "screen_printing_tshirt_printing",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Screen Printing",
+        "alias": "screenprinting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Scuba Diving",
+        "alias": "scuba",
+        "parent_aliases": "diving"
+    },
+    {
+        "title": "Seafood",
+        "alias": "seafood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Seafood Markets",
+        "alias": "seafoodmarkets",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Holiday Decorating Services",
+        "alias": "seasonaldecorservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Security Services",
+        "alias": "security",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Security Systems",
+        "alias": "securitysystems",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Self-defense Classes",
+        "alias": "selfdefenseclasses",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Self Storage",
+        "alias": "selfstorage",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Senegalese",
+        "alias": "senegalese",
+        "parent_aliases": "african"
+    },
+    {
+        "title": "Senior Centers",
+        "alias": "seniorcenters",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Septic Services",
+        "alias": "septicservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Serbo Croatian",
+        "alias": "serbocroatian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Service Stations",
+        "alias": "service_stations",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Gas Stations",
+        "alias": "servicestations",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Session Photography",
+        "alias": "sessionphotography",
+        "parent_aliases": "photographers"
+    },
+    {
+        "title": "Sewing & Alterations",
+        "alias": "sewingalterations",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Sex Therapists",
+        "alias": "sextherapists",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Shanghainese",
+        "alias": "shanghainese",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Shared Office Spaces",
+        "alias": "sharedofficespaces",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Shared Taxis",
+        "alias": "sharedtaxis",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Shaved Ice",
+        "alias": "shavedice",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Shaved Snow",
+        "alias": "shavedsnow",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Sheds & Outdoor Storage",
+        "alias": "shedsandoutdoorstorage",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Shipping Centers",
+        "alias": "shipping_centers",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Shoe Repair",
+        "alias": "shoerepair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Shoe Stores",
+        "alias": "shoes",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Shoe Shine",
+        "alias": "shoeshine",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Shopping",
+        "alias": "shopping",
+        "parent_aliases": ""
+    },
+    {
+        "title": "Shopping Centers",
+        "alias": "shoppingcenters",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Shopping Passages",
+        "alias": "shoppingpassages",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Shredding Services",
+        "alias": "shredding",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Shrines",
+        "alias": "shrines",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Shutters",
+        "alias": "shutters",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Sicilian",
+        "alias": "sicilian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Signature Cuisine",
+        "alias": "signature_cuisine",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Signmaking",
+        "alias": "signmaking",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Sikh Temples",
+        "alias": "sikhtemples",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Silent Disco",
+        "alias": "silentdisco",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Singaporean",
+        "alias": "singaporean",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Skate Parks",
+        "alias": "skate_parks",
+        "parent_aliases": "parks"
+    },
+    {
+        "title": "Skate Shops",
+        "alias": "skateshops",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Skating Rinks",
+        "alias": "skatingrinks",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Skiing",
+        "alias": "skiing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Skilled Nursing",
+        "alias": "skillednursing",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Skin Care",
+        "alias": "skincare",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Ski Resorts",
+        "alias": "skiresorts",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Ski Schools",
+        "alias": "skischools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Ski & Snowboard Shops",
+        "alias": "skishops",
+        "parent_aliases": "sportgoods"
+    },
+    {
+        "title": "Skydiving",
+        "alias": "skydiving",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sledding",
+        "alias": "sledding",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sleep Specialists",
+        "alias": "sleepspecialists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Sleepwear",
+        "alias": "sleepwear",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Slovakian",
+        "alias": "slovakian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Smog Check Stations",
+        "alias": "smog_check_stations",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Smokehouse",
+        "alias": "smokehouse",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Smoking Areas",
+        "alias": "smokingareas",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Snorkeling",
+        "alias": "snorkeling",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Snow Removal",
+        "alias": "snowremoval",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Snuggle Services",
+        "alias": "snuggleservices",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Soba",
+        "alias": "soba",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Social Clubs",
+        "alias": "social_clubs",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Social Security Law",
+        "alias": "socialsecuritylaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Software Development",
+        "alias": "softwaredevelopment",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Solar Installation",
+        "alias": "solarinstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Solar Panel Cleaning",
+        "alias": "solarpanelcleaning",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Somali",
+        "alias": "somali",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Sommelier Services",
+        "alias": "sommelierservices",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Sophrologists",
+        "alias": "sophrologists",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Soul Food",
+        "alias": "soulfood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Soup",
+        "alias": "soup",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "South African",
+        "alias": "southafrican",
+        "parent_aliases": "african"
+    },
+    {
+        "title": "Southern",
+        "alias": "southern",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Souvenir Shops",
+        "alias": "souvenirs",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Spanish",
+        "alias": "spanish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Day Spas",
+        "alias": "spas",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Speakeasies",
+        "alias": "speakeasies",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Special Bikes",
+        "alias": "specialbikes",
+        "parent_aliases": "bicycles"
+    },
+    {
+        "title": "Special Education",
+        "alias": "specialed",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Specialty Schools",
+        "alias": "specialtyschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Speech Therapists",
+        "alias": "speech_therapists",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Speech Training",
+        "alias": "speechtraining",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Sperm Clinic",
+        "alias": "spermclinic",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Spin Classes",
+        "alias": "spinclasses",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Spine Surgeons",
+        "alias": "spinesurgeons",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Spiritism",
+        "alias": "spiritism",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Spiritual Shop",
+        "alias": "spiritual_shop",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Sport Equipment Hire",
+        "alias": "sport_equipment_hire",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sporting Goods",
+        "alias": "sportgoods",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Sports Clubs",
+        "alias": "sports_clubs",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sports Bars",
+        "alias": "sportsbars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Sports Betting",
+        "alias": "sportsbetting",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Sports Medicine",
+        "alias": "sportsmed",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Sports Psychologists",
+        "alias": "sportspsychologists",
+        "parent_aliases": "c_and_mh"
+    },
+    {
+        "title": "Professional Sports Teams",
+        "alias": "sportsteams",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Sports Wear",
+        "alias": "sportswear",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Spray Tanning",
+        "alias": "spraytanning",
+        "parent_aliases": "tanning"
+    },
+    {
+        "title": "Squash",
+        "alias": "squash",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sri Lankan",
+        "alias": "srilankan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Stadiums & Arenas",
+        "alias": "stadiumsarenas",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Cards & Stationery",
+        "alias": "stationery",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Steakhouses",
+        "alias": "steak",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Car Stereo Installation",
+        "alias": "stereo_installation",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Stockings",
+        "alias": "stockings",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Stonemasons",
+        "alias": "stonemasons",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Street Art",
+        "alias": "streetart",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Street Vendors",
+        "alias": "streetvendors",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Strip Clubs",
+        "alias": "stripclubs",
+        "parent_aliases": "adultentertainment"
+    },
+    {
+        "title": "Striptease Dancers",
+        "alias": "stripteasedancers",
+        "parent_aliases": "adultentertainment"
+    },
+    {
+        "title": "Structural Engineers",
+        "alias": "structuralengineers",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Stucco Services",
+        "alias": "stucco",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Studio Taping",
+        "alias": "studiotaping",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "French Southwest",
+        "alias": "sud_ouest",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Sugaring",
+        "alias": "sugaring",
+        "parent_aliases": "hairremoval"
+    },
+    {
+        "title": "Sugar Shacks",
+        "alias": "sugarshacks",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Sukiyaki",
+        "alias": "sukiyaki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Summer Camps",
+        "alias": "summer_camps",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Sunglasses",
+        "alias": "sunglasses",
+        "parent_aliases": "opticians"
+    },
+    {
+        "title": "Supper Clubs",
+        "alias": "supperclubs",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Restaurant Supplies",
+        "alias": "suppliesrestaurant",
+        "parent_aliases": "wholesalers"
+    },
+    {
+        "title": "Surfing",
+        "alias": "surfing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Surf Lifesaving",
+        "alias": "surflifesaving",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Surf Schools",
+        "alias": "surfschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Surf Shop",
+        "alias": "surfshop",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Surgeons",
+        "alias": "surgeons",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Sushi Bars",
+        "alias": "sushi",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Swabian",
+        "alias": "swabian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Swedish",
+        "alias": "swedish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Swimming Lessons/Schools",
+        "alias": "swimminglessons",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Swimming Pools",
+        "alias": "swimmingpools",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Swimwear",
+        "alias": "swimwear",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Swiss Food",
+        "alias": "swissfood",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Synagogues",
+        "alias": "synagogues",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Syrian",
+        "alias": "syrian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Szechuan",
+        "alias": "szechuan",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Tabac",
+        "alias": "tabac",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Tabernas",
+        "alias": "tabernas",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Tablao Flamenco",
+        "alias": "tablaoflamenco",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Tabletop Games",
+        "alias": "tabletopgames",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Tableware",
+        "alias": "tableware",
+        "parent_aliases": "homeandgarden"
+    },
+    {
+        "title": "Tacos",
+        "alias": "tacos",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Taekwondo",
+        "alias": "taekwondo",
+        "parent_aliases": "martialarts"
+    },
+    {
+        "title": "Tai Chi",
+        "alias": "taichi",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Taiwanese",
+        "alias": "taiwanese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Taiyaki",
+        "alias": "taiyaki",
+        "parent_aliases": "jpsweets"
+    },
+    {
+        "title": "Takoyaki",
+        "alias": "takoyaki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Talent Agencies",
+        "alias": "talentagencies",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Tamales",
+        "alias": "tamales",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Tanning",
+        "alias": "tanning",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Tanning Beds",
+        "alias": "tanningbeds",
+        "parent_aliases": "tanning"
+    },
+    {
+        "title": "Taoist Temples",
+        "alias": "taoisttemples",
+        "parent_aliases": "religiousorgs"
+    },
+    {
+        "title": "Tapas Bars",
+        "alias": "tapas",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Tapas/Small Plates",
+        "alias": "tapasmallplates",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Tasting Classes",
+        "alias": "tastingclasses",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Tattoo",
+        "alias": "tattoo",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Tattoo Removal",
+        "alias": "tattooremoval",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Tavola Calda",
+        "alias": "tavolacalda",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Taxidermy",
+        "alias": "taxidermy",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Taxis",
+        "alias": "taxis",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Tax Law",
+        "alias": "taxlaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Tax Office",
+        "alias": "taxoffice",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Tax Services",
+        "alias": "taxservices",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Traditional Chinese Medicine",
+        "alias": "tcm",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Tea Rooms",
+        "alias": "tea",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Teacher Supplies",
+        "alias": "teachersupplies",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Team Building Activities",
+        "alias": "teambuilding",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Teeth Whitening",
+        "alias": "teethwhitening",
+        "parent_aliases": "beautysvc"
+    },
+    {
+        "title": "Telecommunications",
+        "alias": "telecommunications",
+        "parent_aliases": "itservices"
+    },
+    {
+        "title": "Television Service Providers",
+        "alias": "televisionserviceproviders",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Television Stations",
+        "alias": "televisionstations",
+        "parent_aliases": "massmedia"
+    },
+    {
+        "title": "Tempura",
+        "alias": "tempura",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Tenant and Eviction Law",
+        "alias": "tenantlaw",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Tennis",
+        "alias": "tennis",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Teochew",
+        "alias": "teochew",
+        "parent_aliases": "chinese"
+    },
+    {
+        "title": "Teppanyaki",
+        "alias": "teppanyaki",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Test Preparation",
+        "alias": "testprep",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Tex-Mex",
+        "alias": "tex-mex",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Thai",
+        "alias": "thai",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Performing Arts",
+        "alias": "theater",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Themed Cafes",
+        "alias": "themedcafes",
+        "parent_aliases": "cafes"
+    },
+    {
+        "title": "Threading Services",
+        "alias": "threadingservices",
+        "parent_aliases": "hairremoval"
+    },
+    {
+        "title": "Thrift Stores",
+        "alias": "thrift_stores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Tickets",
+        "alias": "tickets",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Ticket Sales",
+        "alias": "ticketsales",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Tiki Bars",
+        "alias": "tikibars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Tiling",
+        "alias": "tiling",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Tires",
+        "alias": "tires",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Title Loans",
+        "alias": "titleloans",
+        "parent_aliases": "financialservices"
+    },
+    {
+        "title": "Tobacco Shops",
+        "alias": "tobaccoshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Tofu Shops",
+        "alias": "tofu",
+        "parent_aliases": "gourmet"
+    },
+    {
+        "title": "Tonkatsu",
+        "alias": "tonkatsu",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Torshi",
+        "alias": "torshi",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Tortillas",
+        "alias": "tortillas",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Tours",
+        "alias": "tours",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Towing",
+        "alias": "towing",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Town Car Service",
+        "alias": "towncarservice",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Town Hall",
+        "alias": "townhall",
+        "parent_aliases": "publicservicesgovt"
+    },
+    {
+        "title": "Toxicologists",
+        "alias": "toxicologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Toy Stores",
+        "alias": "toys",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "American",
+        "alias": "tradamerican",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Traditional Clothing",
+        "alias": "tradclothing",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Trade Fairs",
+        "alias": "tradefairs",
+        "parent_aliases": "festivals"
+    },
+    {
+        "title": "Traditional Swedish",
+        "alias": "traditional_swedish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Traffic Schools",
+        "alias": "trafficschools",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Traffic Ticketing Law",
+        "alias": "trafficticketinglaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Trailer Dealers",
+        "alias": "trailerdealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Trailer Rental",
+        "alias": "trailerrental",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Trailer Repair",
+        "alias": "trailerrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Trains",
+        "alias": "trains",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Train Stations",
+        "alias": "trainstations",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Trampoline Parks",
+        "alias": "trampoline",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Translation Services",
+        "alias": "translationservices",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Transmission Repair",
+        "alias": "transmissionrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Transportation",
+        "alias": "transport",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Tras-os-Montes",
+        "alias": "tras_os_montes",
+        "parent_aliases": "portuguese"
+    },
+    {
+        "title": "Trattorie",
+        "alias": "trattorie",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Travel Agents",
+        "alias": "travelagents",
+        "parent_aliases": "travelservices"
+    },
+    {
+        "title": "Travel Services",
+        "alias": "travelservices",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Tree Services",
+        "alias": "treeservices",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Trinidadian",
+        "alias": "trinidadian",
+        "parent_aliases": "caribbean"
+    },
+    {
+        "title": "Trivia Hosts",
+        "alias": "triviahosts",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Trophy Shops",
+        "alias": "trophyshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Tropical Medicine",
+        "alias": "tropicalmedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Truck Rental",
+        "alias": "truck_rental",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Commercial Truck Dealers",
+        "alias": "truckdealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Commercial Truck Repair",
+        "alias": "truckrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Tubing",
+        "alias": "tubing",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Tui Na",
+        "alias": "tuina",
+        "parent_aliases": "tcm"
+    },
+    {
+        "title": "Turkish",
+        "alias": "turkish",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Turkish Ravioli",
+        "alias": "turkishravioli",
+        "parent_aliases": "turkish"
+    },
+    {
+        "title": "Tuscan",
+        "alias": "tuscan",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Tutoring Centers",
+        "alias": "tutoring",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "TV Mounting",
+        "alias": "tvmounting",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Udon",
+        "alias": "udon",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Ukrainian",
+        "alias": "ukrainian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Ultrasound Imaging Centers",
+        "alias": "ultrasoundimagingcenters",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Unagi",
+        "alias": "unagi",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Undersea/Hyperbaric Medicine",
+        "alias": "underseamedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Uniforms",
+        "alias": "uniforms",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "University Housing",
+        "alias": "university_housing",
+        "parent_aliases": "realestate"
+    },
+    {
+        "title": "Unofficial Yelp Events",
+        "alias": "unofficialyelpevents",
+        "parent_aliases": "localflavor"
+    },
+    {
+        "title": "Urgent Care",
+        "alias": "urgent_care",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Urologists",
+        "alias": "urologists",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Used Bookstore",
+        "alias": "usedbooks",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Used Car Dealers",
+        "alias": "usedcardealers",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Utilities",
+        "alias": "utilities",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Uzbek",
+        "alias": "uzbek",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Vacation Rentals",
+        "alias": "vacation_rentals",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Vacation Rental Agents",
+        "alias": "vacationrentalagents",
+        "parent_aliases": "hotelstravel"
+    },
+    {
+        "title": "Valet Services",
+        "alias": "valetservices",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Vape Shops",
+        "alias": "vapeshops",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Vascular Medicine",
+        "alias": "vascularmedicine",
+        "parent_aliases": "physicians"
+    },
+    {
+        "title": "Vegan",
+        "alias": "vegan",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Vegetarian",
+        "alias": "vegetarian",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Vehicle Shipping",
+        "alias": "vehicleshipping",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Vehicle Wraps",
+        "alias": "vehiclewraps",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Venetian",
+        "alias": "venetian",
+        "parent_aliases": "italian"
+    },
+    {
+        "title": "Venezuelan",
+        "alias": "venezuelan",
+        "parent_aliases": "latin"
+    },
+    {
+        "title": "Venison",
+        "alias": "venison",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Venues & Event Spaces",
+        "alias": "venues",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Vermouth Bars",
+        "alias": "vermouthbars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Veterinarians",
+        "alias": "vet",
+        "parent_aliases": "pets"
+    },
+    {
+        "title": "Veterans Organizations",
+        "alias": "veteransorganizations",
+        "parent_aliases": "social_clubs"
+    },
+    {
+        "title": "Videos & Video Game Rental",
+        "alias": "videoandgames",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Video/Film Production",
+        "alias": "videofilmproductions",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Video Game Stores",
+        "alias": "videogamestores",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Videographers",
+        "alias": "videographers",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Vietnamese",
+        "alias": "vietnamese",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Used, Vintage & Consignment",
+        "alias": "vintage",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Vinyl Records",
+        "alias": "vinyl_records",
+        "parent_aliases": "media"
+    },
+    {
+        "title": "Siding",
+        "alias": "vinylsiding",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Virtual Reality Centers",
+        "alias": "virtualrealitycenters",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Visitor Centers",
+        "alias": "visitorcenters",
+        "parent_aliases": "travelservices"
+    },
+    {
+        "title": "Vitamins & Supplements",
+        "alias": "vitaminssupplements",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Vocal Coach",
+        "alias": "vocalcoach",
+        "parent_aliases": "musicinstrumentservices"
+    },
+    {
+        "title": "Vocational & Technical School",
+        "alias": "vocation",
+        "parent_aliases": "specialtyschools"
+    },
+    {
+        "title": "Volleyball",
+        "alias": "volleyball",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Waffles",
+        "alias": "waffles",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Waldorf Schools",
+        "alias": "waldorfschools",
+        "parent_aliases": "education"
+    },
+    {
+        "title": "Walk-in Clinics",
+        "alias": "walkinclinics",
+        "parent_aliases": "medcenters"
+    },
+    {
+        "title": "Walking Tours",
+        "alias": "walkingtours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Wallpapering",
+        "alias": "wallpapering",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Watch Repair",
+        "alias": "watch_repair",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Watches",
+        "alias": "watches",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Water Delivery",
+        "alias": "waterdelivery",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Water Heater Installation/Repair",
+        "alias": "waterheaterinstallrepair",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Water Parks",
+        "alias": "waterparks",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Waterproofing",
+        "alias": "waterproofing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Water Purification Services",
+        "alias": "waterpurification",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Water Stores",
+        "alias": "waterstores",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Water Suppliers",
+        "alias": "watersuppliers",
+        "parent_aliases": "utilities"
+    },
+    {
+        "title": "Water Taxis",
+        "alias": "watertaxis",
+        "parent_aliases": "transport"
+    },
+    {
+        "title": "Waxing",
+        "alias": "waxing",
+        "parent_aliases": "hairremoval"
+    },
+    {
+        "title": "Web Design",
+        "alias": "web_design",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Wedding Planning",
+        "alias": "wedding_planning",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Wedding Chapels",
+        "alias": "weddingchappels",
+        "parent_aliases": "eventservices"
+    },
+    {
+        "title": "Weight Loss Centers",
+        "alias": "weightlosscenters",
+        "parent_aliases": "health"
+    },
+    {
+        "title": "Well Drilling",
+        "alias": "welldrilling",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Western Style Japanese Food",
+        "alias": "westernjapanese",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Whale Watching Tours",
+        "alias": "whalewatchingtours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Wheel & Rim Repair",
+        "alias": "wheelrimrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Whiskey Bars",
+        "alias": "whiskeybars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Wholesale Stores",
+        "alias": "wholesale_stores",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Wholesalers",
+        "alias": "wholesalers",
+        "parent_aliases": "professional"
+    },
+    {
+        "title": "Wigs",
+        "alias": "wigs",
+        "parent_aliases": "shopping"
+    },
+    {
+        "title": "Wildlife Control",
+        "alias": "wildlifecontrol",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Wildlife Hunting Ranges",
+        "alias": "wildlifehunting",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Wills, Trusts, & Probates",
+        "alias": "willstrustsprobates",
+        "parent_aliases": "estateplanning"
+    },
+    {
+        "title": "Windows Installation",
+        "alias": "windowsinstallation",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Window Washing",
+        "alias": "windowwashing",
+        "parent_aliases": "homeservices"
+    },
+    {
+        "title": "Windshield Installation & Repair",
+        "alias": "windshieldinstallrepair",
+        "parent_aliases": "auto"
+    },
+    {
+        "title": "Wine Bars",
+        "alias": "wine_bars",
+        "parent_aliases": "bars"
+    },
+    {
+        "title": "Wineries",
+        "alias": "wineries",
+        "parent_aliases": "arts"
+    },
+    {
+        "title": "Wine Tasting Classes",
+        "alias": "winetasteclasses",
+        "parent_aliases": "tastingclasses"
+    },
+    {
+        "title": "Wine Tasting Room",
+        "alias": "winetastingroom",
+        "parent_aliases": "wineries"
+    },
+    {
+        "title": "Wine Tours",
+        "alias": "winetours",
+        "parent_aliases": "tours"
+    },
+    {
+        "title": "Wok",
+        "alias": "wok",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Women's Clothing",
+        "alias": "womenscloth",
+        "parent_aliases": "fashion"
+    },
+    {
+        "title": "Workers Compensation Law",
+        "alias": "workerscomplaw",
+        "parent_aliases": "lawyers"
+    },
+    {
+        "title": "Wraps",
+        "alias": "wraps",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Christmas Markets",
+        "alias": "xmasmarkets",
+        "parent_aliases": "festivals"
+    },
+    {
+        "title": "Yakiniku",
+        "alias": "yakiniku",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Yakitori",
+        "alias": "yakitori",
+        "parent_aliases": "japanese"
+    },
+    {
+        "title": "Yelp Events",
+        "alias": "yelpevents",
+        "parent_aliases": "localflavor"
+    },
+    {
+        "title": "Yoga",
+        "alias": "yoga",
+        "parent_aliases": "fitness"
+    },
+    {
+        "title": "Youth Club",
+        "alias": "youth_club",
+        "parent_aliases": "localservices"
+    },
+    {
+        "title": "Yucatan",
+        "alias": "yucatan",
+        "parent_aliases": "mexican"
+    },
+    {
+        "title": "Yugoslav",
+        "alias": "yugoslav",
+        "parent_aliases": "restaurants"
+    },
+    {
+        "title": "Zapiekanka",
+        "alias": "zapiekanka",
+        "parent_aliases": "food"
+    },
+    {
+        "title": "Ziplining",
+        "alias": "zipline",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Zoos",
+        "alias": "zoos",
+        "parent_aliases": "active"
+    },
+    {
+        "title": "Zorbing",
+        "alias": "zorbing",
+        "parent_aliases": "active"
+    }
+]
