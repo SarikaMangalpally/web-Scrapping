@@ -19,7 +19,7 @@ def formatCSV(business_info, title_to_save):
 
         formated_info = {
             "Listing Title": info["business_title"],
-            "Listing SEO Title": info["business_title"].join(info["city"]),
+            "Listing SEO Title": " ".join([info["business_title"],info["city"]]),
             "Listing Email": "",
             "Listing URL": info["business_website"],
             "Listing Address": info["address"],
@@ -73,7 +73,6 @@ def formatCSV(business_info, title_to_save):
         try:
             df = pd.DataFrame(data)
             result = generateCSV(df)
-            # df.to_csv(title_to_save, index=False)
             return result
         except Exception as e:
             return f'Error: CSV file generation failed. {e}'
