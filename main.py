@@ -10,6 +10,8 @@ api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCb
 
 if ',' in categories:
     categories = [category.strip().lower() for category in categories.split(',')]
+else:
+    categories = categories.split()
 
 search_info = {
     'term': term,
@@ -17,12 +19,33 @@ search_info = {
     'categories': categories,
     'api_key': api_key
 }
-if st.button('Scrape site'):
-    st.write('Scraping the website...')
-    result = scrape_website(search_info)
+
+
+if 'current_action' not in st.session_state:
+    st.session_state.current_action = 'Scrape Site'
+
+if st.session_state.current_action == 'Scrape Site':
+    if 'scrape_button_session' not in st.session_state:
+        st.session_state.scrape_button_session = False
     
-    if result:
-        st.write("Business Data:")
-        st.write(result)    
-    else:
-        st.write("No results found")
+    def set_button_session():
+        st.session_state.scrape_button_session = True
+
+    if (st.button('Scrape site', on_click=set_button_session) or st.session_state.scrape_button_session):
+        st.session_state.current_action = 'Scrape Site'
+
+        st.write('Scraping the website...')
+        result = scrape_website(search_info)
+        
+        if result:
+            st.write("Business Data:")
+            st.write(result)
+        else:
+            st.write("No results found")
+
+elif st.session_state.current_action == 'Generate CSV':
+    st.session_state.current_action = 'Generate CSV'
+    st.header("CSV File Generation")
+
+st.cache_data.clear()
+st.cache_resource.clear()

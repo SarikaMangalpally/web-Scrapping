@@ -2,6 +2,7 @@ import requests
 import json
 import pandas as pd
 import time
+import streamlit as st
 from datetime import datetime as dt
 from searchWebsite import find_official_website
 from formatCSV import formatCSV
@@ -104,23 +105,26 @@ def get_business_data(search_info):
 
             # business_ids.extend([business['id'] for business in businesses])
             total_collected += business_count
-
-            if business_count < 50:
-                return "No more businesses to retrieve."
+            if business_count < params["limit"]:
+                st.write("No more businesses to retrieve.")
                 break
-
-            # for business_id in business_ids:
-            offset += 50  # Move to the next page
-            if offset ==200:
-                params["limit"] = 40
+            
+            if total_collected >= 240:
+                st.write("Reached collection limit of 240 businesses.")
+                break
 
             # API limit of 1000 businesses
             if offset >= 1000:
-                return "Reached API limit of 1000 businesses."
+                st.write("Reached API limit of 1000 businesses.")
                 break
 
+             # for business_id in business_ids:
+            offset += params['limit']  # Move to the next page
+            if offset == 200:
+                params["limit"] = 40
+
         else:
-            return "Error: No businesses found or an error occurred."
+            st.error("Error: No businesses found or an error occurred.")
             break   
     try:
         file_title_to_save = f"{params['term']}-{'-'.join([location_string.strip() for location_string in params['location'].split(',')])}{'-'if len(category_titles) else ''}{'-'.join(category_titles) if len(category_titles)>1 else category_titles[0]}.csv"
