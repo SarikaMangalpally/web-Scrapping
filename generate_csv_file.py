@@ -2,8 +2,11 @@ import streamlit as st
 import os
 import pandas as pd
 
-#specify the path of the directory you want to fetch the csv files
-directory = '/Users/sarikamangalpally/Documents/i3dev/Listing Files'
+def ensure_directory_exists(full_directory):
+    #Create the directory if it doesn't already exist.
+    if not os.path.exists(full_directory):
+        os.makedirs(full_directory)
+        st.info(f"Directory created.")
 
 def update_selected_option():
     st.session_state.selected_option = st.session_state['action_for_csv_file_generation']
@@ -15,9 +18,9 @@ def set_append_file_button_session():
 
     
 #specify the path of the csv file you want to save
-def list_csv_files(directory):
+def list_csv_files(full_directory):
     #list all the csv files in the specified path
-    return [file for file in os.listdir(directory) if file.endswith('.csv')]
+    return [file for file in os.listdir(full_directory) if file.endswith('.csv')]
 
 def identify_duplicates(existing_data, new_data):
     duplicates = existing_data.merge(new_data, on=["Listing Title", "Listing Address"], suffixes=('_old', '_new'))
@@ -39,15 +42,16 @@ def identify_duplicates(existing_data, new_data):
 
     return duplicate_df
 
-def append_to_csv(data):
-    csv_files = list_csv_files(directory)
+def append_to_csv(data, full_directory):
+    ensure_directory_exists(full_directory)
+    csv_files = list_csv_files(full_directory)
     try:
         if csv_files:
             # Select the file to append to
             append_to_file_name = st.selectbox('Select the CSV file to append', csv_files, index=None, placeholder='Select the file..', key='append_to_file_select')
             if st.button('Append file', on_click=set_append_file_button_session) or st.session_state.append_file_button_session:
                 # Append data to the selected file
-                append_to_file_path = os.path.join(directory, append_to_file_name)
+                append_to_file_path = os.path.join(full_directory, append_to_file_name)
 
                 # Check if the file is empty or not
                 file_is_empty = os.path.getsize(append_to_file_path) > 0
@@ -88,11 +92,12 @@ def append_to_csv(data):
         st.error(f'Error in appending the data to {append_to_file_name}.csv file: {e}')
         return f'Error in appending the data to {append_to_file_name}.csv file: {e}'
 
-def create_new_file(data):
+def create_new_file(data, full_directory):
+    ensure_directory_exists(full_directory)
     new_file_name = st.text_input('Enter the name for the new CSV file (with .csv extension):', key='new_file_name_input')
     try:
-        if new_file_name and st.button('Create new file'):
-            new_file_path = os.path.join(directory, new_file_name)
+        if st.button('Create new file') and new_file_name.endswith('.csv'):
+            new_file_path = os.path.join(full_directory, new_file_name)
             data.to_csv(new_file_path, index=False)
             return f'Success: {new_file_name} file generated.'
         else:
@@ -101,7 +106,9 @@ def create_new_file(data):
         return f'{e}'
 
 
-def generate_csv(data):
+def generate_csv(data, location):
+    directory = '/Users/sarikamangalpally/Documents/i3dev/Listing Files/'
+    location = '-'.join(location.split(', ')).lower()
     options = ['Create a new CSV file', 'Append to existing CSV file']
 
     if 'selected_option' not in st.session_state:
@@ -120,7 +127,8 @@ def generate_csv(data):
 
     selected_option_index = options.index(st.session_state.selected_option)
     try:
-        result = create_new_file(data) if selected_option_index == 0 else append_to_csv(data)
+        full_directory = os.path.join(directory, location)
+        result = create_new_file(data, full_directory) if selected_option_index == 0 else append_to_csv(data, full_directory)
         return result
     except Exception as e:
         st.warning(f'Error: Select correct option to perform operation  {e}')

@@ -29,7 +29,7 @@ def main():
             'location': location,
             'categories': categories,
             'api_key': api_key
-        }
+        }      
 
         if 'scrape_button_session' not in st.session_state:
             st.session_state.scrape_button_session = False
@@ -38,12 +38,16 @@ def main():
             st.session_state.scrape_button_session = True
 
         if (st.button('Scrape Site', on_click=set_button_session) or st.session_state.scrape_button_session):
+            if search_info not in st.session_state:
+                st.session_state.search_info = search_info
+            
             st.write('Scraping the website...')
             result = scrape_website(search_info)
-            
+
             if isinstance(result, pd.DataFrame) and not result.empty:
                 st.session_state.business_data = result
                 st.session_state.current_action = 'Generate CSV'
+
                 st.rerun()  
             else:
                 st.write("No results found")
@@ -53,7 +57,7 @@ def main():
         if 'business_data' in st.session_state and not st.session_state.business_data.empty:
             st.session_state.current_action = 'Generate CSV'
             st.write('Generating CSV file...')
-            result = generate_csv(st.session_state.business_data)
+            result = generate_csv(st.session_state.business_data, st.session_state.search_info["location"])
 
             if result:
                 st.write(result)
