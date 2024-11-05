@@ -1,11 +1,10 @@
 import requests
 import json
 import pandas as pd
-import time
 import streamlit as st
 from datetime import datetime as dt
-from searchWebsite import find_official_website
-from formatCSV import formatCSV
+from search_website import find_official_website
+from format_csv import format_csv
 
 
 with open('categories_listing.json', 'r') as file:
@@ -127,8 +126,8 @@ def get_business_data(search_info):
             st.error("Error: No businesses found or an error occurred.")
             break   
     try:
-        file_title_to_save = f"{params['term']}-{'-'.join([location_string.strip() for location_string in params['location'].split(',')])}{'-'if len(category_titles) else ''}{'-'.join(category_titles) if len(category_titles)>1 else category_titles[0]}.csv"
-        result = formatCSV(total_businesses_data, file_title_to_save)
+        # file_title_to_save = f"{params['term']}-{'-'.join([location_string.strip() for location_string in params['location'].split(',')])}{'-'if len(category_titles) else ''}{'-'.join(category_titles) if len(category_titles)>1 else category_titles[0]}.csv"
+        result = format_csv(total_businesses_data)
         return result
 
     except Exception as e:
