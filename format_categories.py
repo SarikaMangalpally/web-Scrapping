@@ -21,9 +21,9 @@ def find_category_hierarchy(target):
 
 # Main function to get paths for each input category
 def get_category_paths(inputs):
-    
     try:
         result = [find_category_hierarchy(category) for category in inputs]
         return result
     except Exception as e:
         return 'Error in formating categories: {e}'
+

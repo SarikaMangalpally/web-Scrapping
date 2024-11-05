@@ -41,7 +41,7 @@ def format_csv(business_info):
             "Listing Long Description": "",
             "Listing SEO Description": "",
             "Listing Keywords": "",
-            "Listing Renewal Data": "",
+            "Listing Renewal Data": "12/31/2050",
             "Listing Status": "Active",
             "Listing Level": "Silver",
             "Listing Category 1":  categories_list[0] if len(categories_list)>0 else'',
