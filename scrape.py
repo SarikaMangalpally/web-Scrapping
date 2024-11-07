@@ -10,30 +10,30 @@ from format_csv import format_csv
 with open('categories_listing.json', 'r') as file:
     category_data = json.load(file)
 
-def convert_business_hours(business_hours):
-    days_of_week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+# def convert_business_hours(business_hours):
+#     days_of_week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
-    #output format {'Mon': '10:00 AM - 10:00 PM'}
-    business_hours_dict = {day: 'Closed' for day in days_of_week}
+#     #output format {'Mon': '10:00 AM - 10:00 PM'}
+#     business_hours_dict = {day: 'Closed' for day in days_of_week}
 
-    #populate business hours while converting 24hr to 12hr format
-    for business_hour in business_hours:
-        day_index = days_of_week[business_hour['day']] #weekday
-        start_time = business_hour['start'] #opening hour
-        end_time = business_hour['end'] #closing hour
+#     #populate business hours while converting 24hr to 12hr format
+#     for business_hour in business_hours:
+#         day_index = days_of_week[business_hour['day']] #weekday
+#         start_time = business_hour['start'] #opening hour
+#         end_time = business_hour['end'] #closing hour
 
-        # #formating to HR:MM 24 hr
-        start_time_24hr = dt.strptime(f"{start_time[:2]}:{start_time[2:]}", "%H:%M")
-        end_time_24hr = dt.strptime(f"{end_time[:2]}:{end_time[2:]}", "%H:%M")
+#         # #formating to HR:MM 24 hr
+#         start_time_24hr = dt.strptime(f"{start_time[:2]}:{start_time[2:]}", "%H:%M")
+#         end_time_24hr = dt.strptime(f"{end_time[:2]}:{end_time[2:]}", "%H:%M")
 
         
-        #format to HR:MM 12hr
-        start_time_12hr = dt.strftime(start_time_24hr,"%I:%M %p")
-        end_time_12hr = dt.strftime(end_time_24hr,"%I:%M %p")
+#         #format to HR:MM 12hr
+#         start_time_12hr = dt.strftime(start_time_24hr,"%I:%M %p")
+#         end_time_12hr = dt.strftime(end_time_24hr,"%I:%M %p")
 
-        business_hours_dict[day_index] = f"{start_time_12hr} - {end_time_12hr}"
+#         business_hours_dict[day_index] = f"{start_time_12hr} - {end_time_12hr}"
     
-    return business_hours_dict
+#     return business_hours_dict
 
 category_titles = []
 
@@ -80,7 +80,7 @@ def get_business_data(search_info):
 
             for business in businesses:
                 categories_list = [category['title'] for category in business["categories"]]
-                hours = convert_business_hours(business['business_hours'][0]['open']) if len(business['business_hours']) else 'There are no business hours.'
+                # hours = convert_business_hours(business['business_hours'][0]['open']) if len(business['business_hours']) else 'There are no business hours.'
                     
                 website_url = find_official_website(business["alias"]) 
 
@@ -88,7 +88,7 @@ def get_business_data(search_info):
                     "id": business["id"],
                     "business_title": business["name"],
                     "alias": business["alias"],
-                    "categories": categories_list,
+                    "git": categories_list,
                     "address": business["location"]["address1"],
                     "city": business["location"]["city"],
                     "state": business["location"]["state"],
@@ -97,7 +97,7 @@ def get_business_data(search_info):
                     "display_address": business["location"]["display_address"],
                     "phone": business["phone"],
                     "display_phone": business['display_phone'],
-                    "business_hours": hours,
+                    # "business_hours": hours,
                     "business_website": website_url
                 } 
                 total_businesses_data.extend([business_info])
