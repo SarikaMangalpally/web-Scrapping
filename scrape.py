@@ -88,7 +88,7 @@ def get_business_data(search_info):
                     "id": business["id"],
                     "business_title": business["name"],
                     "alias": business["alias"],
-                    "git": categories_list,
+                    "categories": categories_list,
                     "address": business["location"]["address1"],
                     "city": business["location"]["city"],
                     "state": business["location"]["state"],
