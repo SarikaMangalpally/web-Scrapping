@@ -56,11 +56,14 @@ def append_to_csv(data, full_directory):
                 # Check if the file is empty or not
                 file_is_empty = os.path.getsize(append_to_file_path) > 0
                 
+                st.write(f'new data length: {len(data)}')
+
                 # Load existing data from the file
                 if file_is_empty:
                     existing_data = pd.read_csv(append_to_file_path)
                 else:
                     existing_data = pd.DataFrame(columns=data.columns)  # Empty DataFrame with the same columns as `data`
+                    st.write(f'existing data length: {len(existing_data)}')
                 
                 duplicates = identify_duplicates(existing_data, data)
 
