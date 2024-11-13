@@ -92,8 +92,8 @@ def append_to_csv(data, full_directory):
             st.warning('No CSV files found in the current directory. Please create new CSV file.')
 
     except Exception as e:
-        st.error(f'Error in appending the data to {append_to_file_name}.csv file: {e}')
-        return f'Error in appending the data to {append_to_file_name}.csv file: {e}'
+        # st.error(f'Error in appending the data to {append_to_file_name} file: {e}')
+        return f'Error in appending the data to {append_to_file_name} file: {e}'
 
 def create_new_file(data, full_directory):
     ensure_directory_exists(full_directory)

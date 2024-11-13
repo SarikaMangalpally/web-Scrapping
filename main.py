@@ -14,7 +14,7 @@ def scrape_site():
     if ',' in categories:
         categories = [category.strip().lower() for category in categories.split(',')]
     else:
-        categories = categories.split()
+        categories = [categories]
 
     api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCbXbKgIUbqtW_SEVaNLTJbbcWvazO8wfRKMznhWVZ_ydAdb0xiAq89M8fZ3Yx'
     search_info = {
