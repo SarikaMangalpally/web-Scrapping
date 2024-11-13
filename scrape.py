@@ -38,12 +38,11 @@ with open('categories_listing.json', 'r') as file:
 category_titles = []
 
 def scrape_website(search_info):
-    category_titles.extend(search_info["categories"])
-    aliases = [category["alias"] for category in category_data if category["title"].lower() in category_titles]
+    category_titles = search_info["categories"]
 
+    aliases = [category["alias"] for category in category_data if category["title"].lower() in category_titles]
     #changing given input categories to its aliases
     search_info['categories'] = aliases
-
     business_data = get_business_data(search_info)
     return business_data
 
