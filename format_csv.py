@@ -2,9 +2,9 @@ import json
 import format_categories
 import pandas as pd
 
-with open('state_abbrevations.json', 'r') as file:
+with open('state_abbreviations.json', 'r') as file:
     data = json.load(file)
-    states_with_abbrevations = data['states']['abbrevations']
+    states_with_abbreviations = data['states']['abbreviations']
 
 with open('categories_listing.json', 'r') as file:
     data = json.load(file)
@@ -24,15 +24,15 @@ def format_csv(business_info):
             "Listing Address": info["address"],
             "Listing Address2": "",
             "Listing country": 'United States',
-            "Listing Country Abbrevation": info["country"],
+            "Listing Country Abbreviation": info["country"],
             "Listing Region": "",
-            "Listing Region Abbrevation": "",
-            "Listing State": states_with_abbrevations[info["state"]],
-            "Listing State Abbrevation": info["state"],
+            "Listing Region Abbreviation": "",
+            "Listing State": states_with_abbreviations[info["state"]],
+            "Listing State Abbreviation": info["state"],
             "Listing City": info["city"],
-            "Listing City Abbrevation": "",
+            "Listing City Abbreviation": "",
             "Listing Neighborhood": "",
-            "Listing Neighborhood Abbrevation": "",
+            "Listing Neighborhood Abbreviation": "",
             "Listing Postal Code": info["zip_code"],
             "Listing Latitude": "",
             "Listing Longitude": "",

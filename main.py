@@ -2,6 +2,7 @@ import streamlit as st
 from scrape import scrape_website
 from generate_csv_file import generate_csv
 import pandas as pd
+import re
 
 
 def scrape_site():
@@ -11,16 +12,21 @@ def scrape_site():
     location = st.text_input("Enter Location for search. Example: 'NewYork, NY' ")
     categories = st.text_input("Enter the Category or multiple categories you want to search. Example: 'gym, french'. ")
 
-    if ',' in categories:
-        categories = [category.strip().lower() for category in categories.split(',')]
-    else:
-        categories = [categories.strip().lower()]
+    pattern = r"'([^']*)'|([^,]+)"
+    matches = re.findall(pattern, categories)
 
-    api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCbXbKgIUbqtW_SEVaNLTJbbcWvazO8wfRKMznhWVZ_ydAdb0xiAq89M8fZ3Yx'
+    # Extract the matched categories
+    categories_list = [match[0] if match[0] else match[1] for match in matches]
+    
+   # Strip whitespace and convert to lowercase
+    categories_list = [category.strip().lower() for category in categories_list]
+    # st.write(categories_list)
+    api_key = 'DJpPHlmlFma1V1x7PV3ZXkpUVxh5oyA4ipNIelEqyTwRTz0sxMRqRbyIV3uXR7rL-0mvt3C7OAYHMum6mx0OOzvOrBFM_BUbJqcsn9o5ITPXfv1oWpIJdBGpt2k-Z3Yx'
+    # api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCbXbKgIUbqtW_SEVaNLTJbbcWvazO8wfRKMznhWVZ_ydAdb0xiAq89M8fZ3Yx'
     search_info = {
         'term': term,
         'location': location,
-        'categories': categories,
+        'categories': categories_list,
         'api_key': api_key
     } 
     if st.button('Scrape Site'):

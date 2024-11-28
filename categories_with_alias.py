@@ -1,7 +1,8 @@
 import requests
 import json
 
-api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCbXbKgIUbqtW_SEVaNLTJbbcWvazO8wfRKMznhWVZ_ydAdb0xiAq89M8fZ3Yx'
+api_key = 'DJpPHlmlFma1V1x7PV3ZXkpUVxh5oyA4ipNIelEqyTwRTz0sxMRqRbyIV3uXR7rL-0mvt3C7OAYHMum6mx0OOzvOrBFM_BUbJqcsn9o5ITPXfv1oWpIJdBGpt2k-Z3Yx'
+# api_key = '490Tu7FaGelk7XVYBBOXwejO2cioxGmPjG0gT-R6E-DfTe5qAxzAuoXGRqTkn5fQYZoCbXbKgIUbqtW_SEVaNLTJbbcWvazO8wfRKMznhWVZ_ydAdb0xiAq89M8fZ3Yx'
 def get_categories_with_alias():
 
     url = "https://api.yelp.com/v3/categories"
